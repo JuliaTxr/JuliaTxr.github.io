@@ -1,0 +1,37 @@
+{
+  "name": "Chez Soi Rangé",
+  "tagline": "Idées de rangement et d'organisation pour petits espaces",
+  "base_url": "https://juliatxr.github.io",
+  "pinterest_profile": "https://www.pinterest.com/chezsoirange/",
+  "pinterest_verify": "",
+  "amazon_disclosure": "En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises.",
+  "boards": {
+    "cuisine": {
+      "label": "Rangement cuisine",
+      "board_id": "1108870808193391354",
+      "accent": "#C8A97E"
+    },
+    "chambre-dressing": {
+      "label": "Rangement chambre et dressing",
+      "board_id": "1108870808193391360",
+      "accent": "#B8A1C9"
+    },
+    "salle-de-bain": {
+      "label": "Rangement salle de bain",
+      "board_id": "1108870808193391363",
+      "accent": "#9CC3C9"
+    },
+    "petit-appartement": {
+      "label": "Rangement petit appartement",
+      "board_id": "1108870808193391368",
+      "accent": "#E0B38C"
+    },
+    "organisation-maison": {
+      "label": "Organisation de la maison",
+      "board_id": "1108870808193391370",
+      "accent": "#D9C27A"
+    }
+  },
+  "pins_per_day": 1,
+  "content_csv": "https://docs.google.com/spreadsheets/d/1T-8dRCvhsNAjaJG-M8optH9XKeKSMNMsaDqfFTTmLas/export?format=csv&gid=0"
+}
