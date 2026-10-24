@@ -1,0 +1,580 @@
+[
+  {
+    "id": "CSR-0001",
+    "slug": "rangement-placard-cuisine-petit-espace",
+    "board": "cuisine",
+    "kicker": "Astuce rangement",
+    "title": "Rangement cuisine petit espace : un placard enfin organisé",
+    "description": "Bocaux en verre, paniers et étagère extensible : trois idées simples pour organiser un placard de cuisine quand on manque de place. Tout se voit d'un coup d'œil et les courses se rangent en deux minutes.",
+    "intro": "Un placard de cuisine bien organisé, c'est moins de doublons, moins de gaspillage et des courses rangées en deux minutes. Trois éléments suffisent pour transformer un placard encombré.",
+    "tips": [
+      {
+        "t": "Des bocaux en verre",
+        "d": "Pâtes, riz, farine : on voit immédiatement ce qu'il reste."
+      },
+      {
+        "t": "Des paniers par catégorie",
+        "d": "Un panier pour le petit-déjeuner, un autre pour les conserves."
+      },
+      {
+        "t": "Une étagère extensible",
+        "d": "Elle crée un deuxième niveau et double la surface utile."
+      }
+    ],
+    "visual": "canva",
+    "ai_visual": true,
+    "in_feed": false,
+    "image": "img/CSR-0001.png"
+  },
+  {
+    "id": "CSR-0002",
+    "slug": "rangement-chambre-sous-le-lit",
+    "board": "chambre-dressing",
+    "kicker": "Astuce rangement",
+    "title": "Rangement chambre : utiliser l'espace sous le lit",
+    "description": "Dans une petite chambre, le dessous du lit est souvent le meilleur rangement inexploité. Tiroirs à roulettes, étagères murales et boîtes en tissu libèrent le sol et gardent la pièce apaisante. Idées de rangement chambre pour petits espaces.",
+    "intro": "Sous un lit standard, il y a souvent plus d'un mètre carré de surface inutilisée. Bien exploité, cet espace remplace une commode entière.",
+    "tips": [
+      {
+        "t": "Des tiroirs à roulettes",
+        "d": "Ils sortent d'un geste, même sous un lit bas."
+      },
+      {
+        "t": "Des boîtes en tissu identiques",
+        "d": "Linge de lit, vêtements hors saison : un ensemble calme et uniforme."
+      },
+      {
+        "t": "Des étagères murales",
+        "d": "Elles libèrent la table de chevet et le sol."
+      }
+    ],
+    "visual": "canva",
+    "ai_visual": true,
+    "in_feed": true,
+    "image": "img/CSR-0002.png"
+  },
+  {
+    "id": "CSR-0003",
+    "slug": "petite-salle-de-bain-rangement-au-dessus-des-toilettes",
+    "board": "salle-de-bain",
+    "kicker": "Astuce rangement",
+    "title": "Petite salle de bain : gagner de la place au-dessus des toilettes",
+    "description": "Une étagère au-dessus des toilettes, des paniers tressés et un organisateur sous le lavabo : de quoi ranger toute une petite salle de bain sans encombrer. Astuce rangement salle de bain pour petits espaces.",
+    "intro": "Dans une petite salle de bain, la place se trouve en hauteur. Le mur au-dessus des toilettes est l'un des espaces les plus souvent oubliés.",
+    "tips": [
+      {
+        "t": "Une étagère au-dessus des toilettes",
+        "d": "Serviettes et réserves de papier trouvent leur place."
+      },
+      {
+        "t": "Des paniers tressés",
+        "d": "Ils cachent les petits flacons et réchauffent la pièce."
+      },
+      {
+        "t": "Un organisateur sous le lavabo",
+        "d": "Deux niveaux autour du siphon au lieu d'un fouillis."
+      }
+    ],
+    "visual": "canva",
+    "ai_visual": true,
+    "in_feed": true,
+    "image": "img/CSR-0003.png"
+  },
+  {
+    "id": "CSR-0004",
+    "slug": "rangement-placard-cuisine-5-astuces",
+    "board": "cuisine",
+    "kicker": "Astuce rangement",
+    "title": "Rangement placard cuisine : 5 astuces pour gagner de la place",
+    "description": "Un placard de cuisine trop petit ? Cinq astuces simples pour mieux l'organiser : étagère d'appoint, rangement par zones, contenants transparents et porte exploitée. Des idées de rangement placard cuisine sans travaux, pour les petits espaces.",
+    "intro": "Avant d'acheter un meuble de plus, il est souvent possible de doubler la capacité d'un placard existant. Voici les cinq réflexes qui changent tout.",
+    "tips": [
+      {
+        "t": "Ajoutez un deuxième niveau",
+        "d": "Une étagère d'appoint double la surface d'un placard haut."
+      },
+      {
+        "t": "Rangez par zones",
+        "d": "Petit-déjeuner, cuisson, conserves : chaque catégorie a sa place."
+      },
+      {
+        "t": "Passez aux contenants transparents",
+        "d": "On voit ce qui reste et on évite les doublons."
+      },
+      {
+        "t": "Utilisez l'intérieur de la porte",
+        "d": "Crochets ou porte-couvercles fixés à l'intérieur."
+      },
+      {
+        "t": "Gardez l'essentiel devant",
+        "d": "Le quotidien à hauteur des yeux, l'occasionnel au fond."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-10-24T16:00:00Z",
+    "image": "img/CSR-0004.jpg",
+    "render_hash": "8227b3f65dd9"
+  },
+  {
+    "id": "CSR-0005",
+    "slug": "rangement-petite-chambre-idees-gain-de-place",
+    "board": "chambre-dressing",
+    "kicker": "Petite chambre",
+    "title": "Rangement petite chambre : 5 idées gain de place",
+    "description": "Une petite chambre peut rester calme et rangée : lit à tiroirs, étagères en hauteur, chevet mural et patères. Cinq idées de rangement chambre faciles à mettre en place, même en location.",
+    "intro": "Dans une petite chambre, chaque meuble posé au sol réduit la sensation d'espace. L'astuce : ranger en hauteur et sous le lit, et choisir des meubles à double fonction.",
+    "tips": [
+      {
+        "t": "Un lit avec tiroirs",
+        "d": "Linge et vêtements hors saison disparaissent sous le matelas."
+      },
+      {
+        "t": "Une étagère au-dessus de la porte",
+        "d": "Un espace oublié, parfait pour les boîtes."
+      },
+      {
+        "t": "Un chevet mural",
+        "d": "Il libère le sol et agrandit visuellement la pièce."
+      },
+      {
+        "t": "Des patères au lieu d'une chaise",
+        "d": "Les vêtements portés une fois ne s'entassent plus."
+      },
+      {
+        "t": "Des boîtes identiques",
+        "d": "Moins de couleurs, moins de désordre visuel."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0005.jpg",
+    "render_hash": "a13113ede7d3"
+  },
+  {
+    "id": "CSR-0006",
+    "slug": "rangement-salle-de-bain-sans-percage",
+    "board": "salle-de-bain",
+    "kicker": "Sans perçage",
+    "title": "Rangement salle de bain sans perçage : 5 solutions simples",
+    "description": "Locataire ou carrelage fragile ? Cinq solutions de rangement salle de bain sans percer : étagère télescopique, paniers de porte, organiseur sous évier et plateaux. Des idées pour les petites salles de bain.",
+    "intro": "Pas besoin de perceuse pour gagner de la place dans une salle de bain. Ces solutions se posent, se coincent ou se suspendent, et partent avec vous au déménagement.",
+    "tips": [
+      {
+        "t": "Une étagère télescopique",
+        "d": "Elle se coince entre sol et plafond au-dessus des toilettes."
+      },
+      {
+        "t": "Des paniers sur la porte",
+        "d": "Suspendus par crochets, sans aucune vis."
+      },
+      {
+        "t": "Un organiseur sous l'évier",
+        "d": "Deux niveaux qui contournent le siphon."
+      },
+      {
+        "t": "Un plateau sur la baignoire",
+        "d": "Il regroupe les produits de douche au même endroit."
+      },
+      {
+        "t": "Un chariot étroit à roulettes",
+        "d": "Il se glisse entre le lavabo et le mur."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0006.jpg",
+    "render_hash": "18c11c20b71d"
+  },
+  {
+    "id": "CSR-0007",
+    "slug": "rangement-petit-appartement-exploiter-chaque-recoin",
+    "board": "petit-appartement",
+    "kicker": "Petit appartement",
+    "title": "Rangement petit appartement : exploiter chaque recoin",
+    "description": "Dessus des placards, derrière les portes, sous l'escalier, murs jusqu'au plafond : cinq recoins à exploiter pour ranger un petit appartement ou un studio sans l'encombrer. Idées de rangement petit espace.",
+    "intro": "Dans un studio ou un petit appartement, la place existe souvent déjà : elle se cache dans les recoins qu'on ne regarde plus.",
+    "tips": [
+      {
+        "t": "Le dessus des placards",
+        "d": "Des boîtes identiques pour ce qui sert rarement."
+      },
+      {
+        "t": "L'arrière des portes",
+        "d": "Crochets et organiseurs à poches."
+      },
+      {
+        "t": "Sous l'escalier ou sous la pente",
+        "d": "Des caisses sur roulettes, faciles à sortir."
+      },
+      {
+        "t": "Les meubles à double usage",
+        "d": "Banc coffre, pouf de rangement, lit à tiroirs."
+      },
+      {
+        "t": "Toute la hauteur des murs",
+        "d": "Des étagères qui montent jusqu'au plafond."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0007.jpg",
+    "render_hash": "378ba512ed25"
+  },
+  {
+    "id": "CSR-0008",
+    "slug": "routine-rangement-10-minutes-par-jour",
+    "board": "organisation-maison",
+    "kicker": "Routine maison",
+    "title": "Routine rangement : 10 minutes par jour pour une maison rangée",
+    "description": "Pas besoin d'un grand week-end de rangement : avec une routine de 10 minutes par jour, la maison reste en ordre. Cinq habitudes simples d'organisation de la maison, faciles à tenir.",
+    "intro": "Le désordre s'installe petit à petit, il se range de la même façon. Dix minutes par jour suffisent quand on suit toujours la même routine.",
+    "tips": [
+      {
+        "t": "Un minuteur de 10 minutes",
+        "d": "On s'arrête quand il sonne : c'est ce qui rend la routine tenable."
+      },
+      {
+        "t": "Une seule zone par jour",
+        "d": "Lundi l'entrée, mardi la cuisine, et ainsi de suite."
+      },
+      {
+        "t": "Un panier « à ranger »",
+        "d": "Il fait le tour des pièces et rend chaque objet à sa place."
+      },
+      {
+        "t": "Une surface vide le soir",
+        "d": "Table ou plan de travail : on commence la journée au calme."
+      },
+      {
+        "t": "Un objet entre, un objet sort",
+        "d": "La règle qui empêche le désordre de revenir."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0008.jpg",
+    "render_hash": "a987fe7d3e58"
+  },
+  {
+    "id": "CSR-0009",
+    "slug": "rangement-entree-maison-petite-entree",
+    "board": "petit-appartement",
+    "kicker": "Entrée",
+    "title": "Rangement entrée maison : une petite entrée enfin organisée",
+    "description": "Chaussures, clés, sacs et manteaux : cinq idées de rangement entrée maison pour organiser une petite entrée sans l'encombrer. Banc à chaussures, patères et vide-poches pour un accueil rangé.",
+    "intro": "L'entrée est la première pièce qu'on voit et la plus vite encombrée. Avec quelques éléments bien choisis, chaque objet retrouve une place évidente.",
+    "tips": [
+      {
+        "t": "Un banc à chaussures",
+        "d": "On s'assoit pour se chausser et les paires se rangent dessous."
+      },
+      {
+        "t": "Des patères à deux hauteurs",
+        "d": "Les adultes en haut, les enfants en bas."
+      },
+      {
+        "t": "Un vide-poches près de la porte",
+        "d": "Les clés ne se perdent plus."
+      },
+      {
+        "t": "Une étagère murale fine",
+        "d": "Pour le courrier et les petits objets du quotidien."
+      },
+      {
+        "t": "Un panier par personne",
+        "d": "Bonnets, gants et écharpes triés sans effort."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0009.jpg",
+    "render_hash": "8657cc33c1ce"
+  },
+  {
+    "id": "CSR-0010",
+    "slug": "rangement-chaussures-manque-de-place",
+    "board": "chambre-dressing",
+    "kicker": "Chaussures",
+    "title": "Rangement chaussures : 5 idées quand on manque de place",
+    "description": "Trop de chaussures et pas assez de place ? Cinq idées de rangement chaussures pour petits espaces : meuble à abattants, dessous du lit, derrière la porte et boîtes empilables.",
+    "intro": "Les chaussures prennent vite toute l'entrée. La solution consiste à ranger ailleurs ce qui ne sert pas cette saison, et à garder à portée de main seulement le quotidien.",
+    "tips": [
+      {
+        "t": "Un meuble étroit à abattants",
+        "d": "Moins de 25 cm de profondeur, idéal dans un couloir."
+      },
+      {
+        "t": "Sous le lit",
+        "d": "Des boîtes plates pour les paires hors saison."
+      },
+      {
+        "t": "Derrière une porte",
+        "d": "Un organiseur à poches suspendu."
+      },
+      {
+        "t": "Des boîtes empilables transparentes",
+        "d": "On voit chaque paire sans tout déplacer."
+      },
+      {
+        "t": "Seulement la saison en cours",
+        "d": "Le reste change de place deux fois par an."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0010.jpg",
+    "render_hash": "f5988218bb30"
+  },
+  {
+    "id": "CSR-0011",
+    "slug": "rangement-epices-petite-cuisine",
+    "board": "cuisine",
+    "kicker": "Épices",
+    "title": "Rangement épices : 4 façons de les organiser dans une petite cuisine",
+    "description": "Étagère à gradins, tiroir, barre magnétique ou plateau tournant : quatre façons d'organiser les épices dans une petite cuisine. Des idées de rangement cuisine pour tout retrouver en un coup d'œil.",
+    "intro": "Les petits pots d'épices finissent souvent en désordre au fond d'un placard. Selon la place disponible, quatre systèmes permettent de tout retrouver immédiatement.",
+    "tips": [
+      {
+        "t": "Une étagère à gradins",
+        "d": "Chaque rangée reste visible dans le placard."
+      },
+      {
+        "t": "Un tiroir avec pots couchés",
+        "d": "Étiquettes sur le couvercle, lecture d'un coup d'œil."
+      },
+      {
+        "t": "Une barre magnétique murale",
+        "d": "Des pots métalliques qui libèrent le plan de travail."
+      },
+      {
+        "t": "Un plateau tournant",
+        "d": "Parfait pour un coin de placard difficile d'accès."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0011.jpg",
+    "render_hash": "781f9dbb2bfd"
+  },
+  {
+    "id": "CSR-0012",
+    "slug": "petit-dressing-organiser-une-armoire",
+    "board": "chambre-dressing",
+    "kicker": "Dressing",
+    "title": "Petit dressing : organiser une armoire comme un dressing",
+    "description": "Pas de place pour un vrai dressing ? Cinq astuces pour organiser une armoire comme un petit dressing : cintres fins, deux barres, séparateurs et pliage vertical. Idées de rangement dressing pour petite chambre.",
+    "intro": "Une armoire classique peut offrir le confort d'un dressing. Il suffit de mieux utiliser sa hauteur et de rendre chaque vêtement visible.",
+    "tips": [
+      {
+        "t": "Des cintres fins identiques",
+        "d": "Ils font gagner jusqu'à un tiers de place sur la barre."
+      },
+      {
+        "t": "Deux barres superposées",
+        "d": "Hauts en haut, bas en dessous : la penderie double."
+      },
+      {
+        "t": "Des séparateurs d'étagère",
+        "d": "Les piles de pulls ne s'effondrent plus."
+      },
+      {
+        "t": "Le hors-saison tout en haut",
+        "d": "Dans des boîtes étiquetées."
+      },
+      {
+        "t": "Le pliage vertical",
+        "d": "Dans les tiroirs, tout se voit d'un seul regard."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0012.jpg",
+    "render_hash": "02a6d986e746"
+  },
+  {
+    "id": "CSR-0013",
+    "slug": "rangement-sous-lavabo-5-etapes",
+    "board": "salle-de-bain",
+    "kicker": "Sous le lavabo",
+    "title": "Rangement sous lavabo : organiser le meuble en 5 étapes",
+    "description": "Le meuble sous le lavabo est souvent le plus encombré de la salle de bain. Cinq étapes pour l'organiser durablement : tri, étagère autour du siphon, bacs coulissants et produits en sécurité.",
+    "intro": "Sous le lavabo, le siphon complique tout et les flacons s'accumulent. En cinq étapes, ce meuble devient pratique et facile à entretenir.",
+    "tips": [
+      {
+        "t": "Tout vider et trier",
+        "d": "On jette les produits périmés ou en double."
+      },
+      {
+        "t": "Une étagère en U",
+        "d": "Elle contourne le siphon et crée deux niveaux."
+      },
+      {
+        "t": "Des bacs coulissants",
+        "d": "On tire le bac au lieu de fouiller au fond."
+      },
+      {
+        "t": "Les produits ménagers en sécurité",
+        "d": "Bien fermés, hors de portée des enfants."
+      },
+      {
+        "t": "Un tapis de fond",
+        "d": "Il protège le meuble des fuites et des coulures."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0013.jpg",
+    "render_hash": "6607ce1fe098"
+  },
+  {
+    "id": "CSR-0014",
+    "slug": "rangement-bureau-petit-espace",
+    "board": "petit-appartement",
+    "kicker": "Coin bureau",
+    "title": "Rangement bureau dans un petit espace : un coin travail organisé",
+    "description": "Un coin bureau dans un salon ou une chambre peut rester net : étagères au-dessus, caisson à roulettes, câbles cachés et plateau à traiter. Cinq idées de rangement bureau pour petits espaces.",
+    "intro": "Quand le bureau se trouve dans une pièce à vivre, il doit pouvoir se ranger vite. L'objectif : un plan de travail libre et tout le reste à portée de main.",
+    "tips": [
+      {
+        "t": "Des étagères au-dessus du bureau",
+        "d": "Le mur travaille, le plan de travail reste libre."
+      },
+      {
+        "t": "Un caisson à roulettes",
+        "d": "Il se range sous le bureau et se déplace facilement."
+      },
+      {
+        "t": "Des câbles regroupés",
+        "d": "Une goulotte ou une boîte à multiprise."
+      },
+      {
+        "t": "Un plateau « à traiter »",
+        "d": "Tous les papiers en attente au même endroit."
+      },
+      {
+        "t": "Un tableau mural",
+        "d": "Les notes quittent l'écran et le bureau."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0014.jpg",
+    "render_hash": "5050f12c2217"
+  },
+  {
+    "id": "CSR-0015",
+    "slug": "rangement-chambre-enfant-idees-simples",
+    "board": "chambre-dressing",
+    "kicker": "Chambre d'enfant",
+    "title": "Rangement chambre enfant : des idées simples et accessibles",
+    "description": "Des bacs à hauteur d'enfant, des étiquettes en images et une rotation des jouets : cinq idées de rangement chambre enfant pour une pièce que l'enfant peut ranger lui-même.",
+    "intro": "Une chambre d'enfant reste rangée quand l'enfant peut ranger seul. Tout est à sa hauteur, chaque chose a une place qu'il reconnaît.",
+    "tips": [
+      {
+        "t": "Des bacs à hauteur d'enfant",
+        "d": "Ouverts, légers, faciles à remplir."
+      },
+      {
+        "t": "Des étiquettes en images",
+        "d": "Une photo par bac, même avant de savoir lire."
+      },
+      {
+        "t": "La rotation des jouets",
+        "d": "Une partie sort, l'autre attend au placard."
+      },
+      {
+        "t": "Une étagère à livres frontale",
+        "d": "Les couvertures visibles donnent envie de lire."
+      },
+      {
+        "t": "Des patères basses",
+        "d": "Pyjama et sac trouvent leur place."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0015.jpg",
+    "render_hash": "7f54a8ea6294"
+  },
+  {
+    "id": "CSR-0016",
+    "slug": "rangement-buanderie-petit-coin-lessive",
+    "board": "organisation-maison",
+    "kicker": "Buanderie",
+    "title": "Rangement buanderie : organiser un petit coin lessive",
+    "description": "Pas de vraie buanderie ? Cinq idées de rangement buanderie pour organiser un petit coin lessive : étagère au-dessus de la machine, paniers de tri, séchoir mural rabattable et colonne étroite.",
+    "intro": "Un coin lessive tient parfois dans un placard ou une salle de bain. Bien organisé, il rend la corvée plus rapide.",
+    "tips": [
+      {
+        "t": "Une étagère au-dessus de la machine",
+        "d": "Lessive et produits à portée de main."
+      },
+      {
+        "t": "Des paniers de tri",
+        "d": "Blanc, couleurs, délicat : le tri se fait au fil de la semaine."
+      },
+      {
+        "t": "Un séchoir mural rabattable",
+        "d": "Il disparaît quand on n'en a pas besoin."
+      },
+      {
+        "t": "Une colonne étroite",
+        "d": "Elle se glisse entre la machine et le mur."
+      },
+      {
+        "t": "Les produits en hauteur",
+        "d": "Bien fermés, hors de portée des enfants."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0016.jpg",
+    "render_hash": "dda298718576"
+  },
+  {
+    "id": "CSR-0017",
+    "slug": "rangement-sous-pente-espace-perdu",
+    "board": "petit-appartement",
+    "kicker": "Sous les combles",
+    "title": "Rangement sous pente : 4 idées pour un espace perdu",
+    "description": "Sous les combles, l'espace sous la pente est souvent perdu. Quatre idées de rangement sous pente : meubles bas sur roulettes, étagères en escalier, tringle basse et rideau devant des caisses.",
+    "intro": "Les murs mansardés compliquent l'aménagement, mais la partie basse sous la pente est idéale pour ranger, à condition de choisir des meubles à la bonne hauteur.",
+    "tips": [
+      {
+        "t": "Des meubles bas sur roulettes",
+        "d": "Ils se sortent entièrement pour accéder au fond."
+      },
+      {
+        "t": "Des étagères en escalier",
+        "d": "Elles suivent la pente sans perdre de place."
+      },
+      {
+        "t": "Une tringle basse",
+        "d": "Pour les vêtements courts ou les vêtements d'enfant."
+      },
+      {
+        "t": "Un rideau devant des caisses",
+        "d": "Simple, économique, et tout est caché."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "image": "img/CSR-0017.jpg",
+    "render_hash": "12c2fc8a7e8f"
+  }
+]
