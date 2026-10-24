@@ -1,11 +1,12 @@
-name: Publier le site et les flux Pinterest
+name: Publier Chez Soi Range
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "50 7,11,15 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/**"]
 
 permissions:
   contents: write
@@ -15,6 +16,9 @@ permissions:
 concurrency:
   group: pages
   cancel-in-progress: false
+
+env:
+  SHEET: https://docs.google.com/spreadsheets/d/1T-8dRCvhsNAjaJG-M8optH9XKeKSMNMsaDqfFTTmLas/export?format=csv
 
 jobs:
   publish:
@@ -27,22 +31,44 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Installer Pillow
-        run: pip install pillow==11.3.0
-      - name: Lire les contenus (Google Sheets), créer les visuels, récupérer les images Canva
+      - name: Code et polices
+        run: |
+          pip install -q pillow==11.3.0
+          python3 - <<'PY'
+          import csv, io, os, sys, urllib.request
+          url = os.environ["SHEET"] + "&gid=777"
+          try:
+              text = urllib.request.urlopen(url, timeout=60).read().decode("utf-8")
+          except Exception as e:
+              print("Onglet Code illisible, code existant conserve :", e); sys.exit(0)
+          rows = list(csv.reader(io.StringIO(text)))
+          ok = ("tools/", "data/site.json")
+          for row in rows[1:]:
+              if len(row) < 2 or not row[0].strip(): continue
+              path, content = row[0].strip(), row[1]
+              if ".." in path or not path.startswith(ok) or len(content) < 20: continue
+              if path == "data/site.json" and os.path.exists(path): continue
+              os.makedirs(os.path.dirname(path), exist_ok=True)
+              open(path, "w", encoding="utf-8").write(content.rstrip("\n") + "\n")
+              print("code :", path)
+          PY
+          mkdir -p tools/fonts img data
+          [ -f data/pins.json ] || echo "[]" > data/pins.json
+          G=https://raw.githubusercontent.com/google/fonts/main/ofl
+          [ -f tools/fonts/Lora-Variable.ttf ] || curl -sSfL -o tools/fonts/Lora-Variable.ttf "$G/lora/Lora%5Bwght%5D.ttf"
+          for w in Regular Medium Bold; do [ -f tools/fonts/Poppins-$w.ttf ] || curl -sSfL -o tools/fonts/Poppins-$w.ttf "$G/poppins/Poppins-$w.ttf"; done
+      - name: Contenus, visuels, images Canva
         run: |
           python tools/sync.py
           python tools/render.py
           python tools/fetch.py
-      - name: Enregistrer les changements dans le dépôt
+      - name: Enregistrer dans le depot
         run: |
-          if [ -n "$(git status --porcelain data img)" ]; then
-            git config user.name "csr-bot"
-            git config user.email "csr-bot@users.noreply.github.com"
-            git add -A data img
-            git commit -m "Mise à jour automatique des épingles"
-            git push
-          fi
+          git config user.name "csr-bot"
+          git config user.email "csr-bot@users.noreply.github.com"
+          git add -A tools data img
+          git commit -qm "Mise a jour automatique" || true
+          git push || true
       - name: Construire le site
         run: python tools/build.py
       - uses: actions/configure-pages@v5
@@ -51,21 +77,18 @@ jobs:
           path: _site
       - id: deploy
         uses: actions/deploy-pages@v4
-      - name: Enregistrer l'état de publication (lu par Claude pour vérifier)
+      - name: Etat de publication
         if: always()
         run: |
           python3 - <<'PY'
           import json, os, datetime
           st = json.load(open("_site/status.json")) if os.path.exists("_site/status.json") else {}
-          st["deploy"] = "${{ steps.deploy.outcome }}"
-          st["page_url"] = "${{ steps.deploy.outputs.page_url }}"
-          st["run"] = "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-          st["checked_at"] = datetime.datetime.utcnow().isoformat() + "Z"
+          st.update(deploy="${{ steps.deploy.outcome }}", page_url="${{ steps.deploy.outputs.page_url }}",
+                    run="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
+                    checked_at=datetime.datetime.utcnow().isoformat() + "Z")
           json.dump(st, open("status.json", "w"), ensure_ascii=False, indent=1)
           PY
-          git config user.name "csr-bot"
-          git config user.email "csr-bot@users.noreply.github.com"
           git add status.json
-          git commit -m "État de publication" || true
+          git commit -qm "Etat de publication" || true
           git pull --rebase -q || true
           git push || true
