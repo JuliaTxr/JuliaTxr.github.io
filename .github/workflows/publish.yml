@@ -1,0 +1,71 @@
+name: Publier le site et les flux Pinterest
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "50 7,11,15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Installer Pillow
+        run: pip install pillow==11.3.0
+      - name: Lire les contenus (Google Sheets), créer les visuels, récupérer les images Canva
+        run: |
+          python tools/sync.py
+          python tools/render.py
+          python tools/fetch.py
+      - name: Enregistrer les changements dans le dépôt
+        run: |
+          if [ -n "$(git status --porcelain data img)" ]; then
+            git config user.name "csr-bot"
+            git config user.email "csr-bot@users.noreply.github.com"
+            git add -A data img
+            git commit -m "Mise à jour automatique des épingles"
+            git push
+          fi
+      - name: Construire le site
+        run: python tools/build.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Enregistrer l'état de publication (lu par Claude pour vérifier)
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import json, os, datetime
+          st = json.load(open("_site/status.json")) if os.path.exists("_site/status.json") else {}
+          st["deploy"] = "${{ steps.deploy.outcome }}"
+          st["page_url"] = "${{ steps.deploy.outputs.page_url }}"
+          st["run"] = "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          st["checked_at"] = datetime.datetime.utcnow().isoformat() + "Z"
+          json.dump(st, open("status.json", "w"), ensure_ascii=False, indent=1)
+          PY
+          git config user.name "csr-bot"
+          git config user.email "csr-bot@users.noreply.github.com"
+          git add status.json
+          git commit -m "État de publication" || true
+          git pull --rebase -q || true
+          git push || true
