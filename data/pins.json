@@ -30,7 +30,7 @@
     "id": "CSR-0002",
     "slug": "rangement-chambre-sous-le-lit",
     "board": "chambre-dressing",
-    "kicker": "Astuce rangement",
+    "kicker": "Sous le lit",
     "title": "Rangement chambre : utiliser l'espace sous le lit",
     "description": "Dans une petite chambre, le dessous du lit est souvent le meilleur rangement inexploité. Tiroirs à roulettes, étagères murales et boîtes en tissu libèrent le sol et gardent la pièce apaisante. Idées de rangement chambre pour petits espaces.",
     "intro": "Sous un lit standard, il y a souvent plus d'un mètre carré de surface inutilisée. Bien exploité, cet espace remplace une commode entière.",
@@ -48,16 +48,18 @@
         "d": "Elles libèrent la table de chevet et le sol."
       }
     ],
-    "visual": "canva",
-    "ai_visual": true,
+    "visual": "render",
+    "ai_visual": false,
     "in_feed": true,
-    "image": "img/CSR-0002.png"
+    "publish_at": "2026-11-04T07:40:00Z",
+    "image": "img/CSR-0002.jpg",
+    "render_hash": "10887d89ec22"
   },
   {
     "id": "CSR-0003",
     "slug": "petite-salle-de-bain-rangement-au-dessus-des-toilettes",
     "board": "salle-de-bain",
-    "kicker": "Astuce rangement",
+    "kicker": "Petite salle de bain",
     "title": "Petite salle de bain : gagner de la place au-dessus des toilettes",
     "description": "Une étagère au-dessus des toilettes, des paniers tressés et un organisateur sous le lavabo : de quoi ranger toute une petite salle de bain sans encombrer. Astuce rangement salle de bain pour petits espaces.",
     "intro": "Dans une petite salle de bain, la place se trouve en hauteur. Le mur au-dessus des toilettes est l'un des espaces les plus souvent oubliés.",
@@ -75,10 +77,12 @@
         "d": "Deux niveaux autour du siphon au lieu d'un fouillis."
       }
     ],
-    "visual": "canva",
-    "ai_visual": true,
+    "visual": "render",
+    "ai_visual": false,
     "in_feed": true,
-    "image": "img/CSR-0003.png"
+    "publish_at": "2026-11-05T07:40:00Z",
+    "image": "img/CSR-0003.jpg",
+    "render_hash": "6c0ad8b408e3"
   },
   {
     "id": "CSR-0004",
@@ -150,6 +154,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-24T19:30:00Z",
     "image": "img/CSR-0005.jpg",
     "render_hash": "a13113ede7d3"
   },
@@ -186,6 +191,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-24T19:30:00Z",
     "image": "img/CSR-0006.jpg",
     "render_hash": "18c11c20b71d"
   },
@@ -222,6 +228,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-25T07:40:00Z",
     "image": "img/CSR-0007.jpg",
     "render_hash": "378ba512ed25"
   },
@@ -258,6 +265,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-25T15:40:00Z",
     "image": "img/CSR-0008.jpg",
     "render_hash": "a987fe7d3e58"
   },
@@ -294,6 +302,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-29T07:40:00Z",
     "image": "img/CSR-0009.jpg",
     "render_hash": "8657cc33c1ce"
   },
@@ -330,6 +339,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-27T07:40:00Z",
     "image": "img/CSR-0010.jpg",
     "render_hash": "f5988218bb30"
   },
@@ -362,6 +372,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-26T07:40:00Z",
     "image": "img/CSR-0011.jpg",
     "render_hash": "781f9dbb2bfd"
   },
@@ -398,6 +409,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-31T07:40:00Z",
     "image": "img/CSR-0012.jpg",
     "render_hash": "02a6d986e746"
   },
@@ -434,6 +446,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-28T07:40:00Z",
     "image": "img/CSR-0013.jpg",
     "render_hash": "6607ce1fe098"
   },
@@ -470,6 +483,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-01T07:40:00Z",
     "image": "img/CSR-0014.jpg",
     "render_hash": "5050f12c2217"
   },
@@ -506,6 +520,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-02T07:40:00Z",
     "image": "img/CSR-0015.jpg",
     "render_hash": "7f54a8ea6294"
   },
@@ -542,6 +557,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-30T07:40:00Z",
     "image": "img/CSR-0016.jpg",
     "render_hash": "dda298718576"
   },
@@ -574,6 +590,7 @@
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-03T07:40:00Z",
     "image": "img/CSR-0017.jpg",
     "render_hash": "12c2fc8a7e8f"
   }
