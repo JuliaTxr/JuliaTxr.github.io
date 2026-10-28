@@ -167,6 +167,11 @@ def build():
         open(os.path.join(OUT, "feeds", f"{key}.xml"), "w", encoding="utf-8").write(
             rss(site, items, f"{site['name']} · {b['label']}", f"feeds/{key}.xml"))
     open(os.path.join(OUT, ".nojekyll"), "w").close()
+    urls = [site["base_url"] + "/", site["base_url"] + "/a-propos/"] + [pin_url(site, p) for p in newest]
+    sm = "".join(f"<url><loc>{u}</loc></url>" for u in urls)
+    open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8").write(
+        f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
+    open(os.path.join(OUT, "robots.txt"), "w", encoding="utf-8").write(f"User-agent: *\nAllow: /\nSitemap: {site['base_url']}/sitemap.xml\n")
     queue = [p["id"] for p in pins if p.get("in_feed", True) and not is_live(p, now)]
     status = {"built_at": now.isoformat(), "live": [p["id"] for p in newest], "queue": queue,
               "next_release": min([p["publish_at"] for p in pins if p["id"] in queue and p.get("publish_at")] or [None]),

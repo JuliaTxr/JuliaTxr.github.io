@@ -32,6 +32,6 @@
       "accent": "#D9C27A"
     }
   },
-  "pins_per_day": 1,
+  "pins_per_day": 2,
   "content_csv": "https://docs.google.com/spreadsheets/d/1T-8dRCvhsNAjaJG-M8optH9XKeKSMNMsaDqfFTTmLas/export?format=csv&gid=0"
 }
