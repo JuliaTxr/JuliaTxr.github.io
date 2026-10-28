@@ -806,15 +806,12 @@
       {
         "t": "Un crochet derrière la porte",
         "d": "Pour la tenue du lendemain ou un sac."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-05T07:40:00Z",
     "products": [
       {
         "name": "Organiseurs de tiroir pour vêtements",
@@ -828,7 +825,7 @@
       }
     ],
     "image": "img/CSR-0021.jpg",
-    "render_hash": "708ac90e5f1c"
+    "render_hash": "1fcb3c3a2bc3"
   },
   {
     "id": "CSR-0022",
@@ -854,17 +851,14 @@
       {
         "t": "Le stock à part",
         "d": "Les produits neufs dans une boîte fermée."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-10-29T15:40:00Z",
     "image": "img/CSR-0022.jpg",
-    "render_hash": "4d16b57e3d86"
+    "render_hash": "c3f202100186"
   },
   {
     "id": "CSR-0023",
@@ -939,17 +933,14 @@
       {
         "t": "Des meubles bas",
         "d": "Ils structurent la pièce sans l'écraser."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-04T15:40:00Z",
     "image": "img/CSR-0024.jpg",
-    "render_hash": "3c9bcac306b3"
+    "render_hash": "49919c3fb0f2"
   },
   {
     "id": "CSR-0025",
@@ -975,17 +966,14 @@
       {
         "t": "Scanner l'essentiel",
         "d": "Une copie numérique des documents importants."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-02T15:40:00Z",
     "image": "img/CSR-0025.jpg",
-    "render_hash": "c400cf6f730c"
+    "render_hash": "74319d61562c"
   },
   {
     "id": "CSR-0026",
@@ -1011,17 +999,14 @@
       {
         "t": "Un petit plateau",
         "d": "Pour les bijoux du quotidien près du miroir."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-07T07:40:00Z",
     "image": "img/CSR-0026.jpg",
-    "render_hash": "cec218a3faf0"
+    "render_hash": "dc3d16275dd6"
   },
   {
     "id": "CSR-0027",
@@ -1047,15 +1032,12 @@
       {
         "t": "Le stock ailleurs",
         "d": "Seulement deux jeux par personne dans la salle de bain."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-01T15:40:00Z",
     "products": [
       {
         "name": "Échelle porte-serviettes",
@@ -1069,7 +1051,7 @@
       }
     ],
     "image": "img/CSR-0027.jpg",
-    "render_hash": "a220502b4a3b"
+    "render_hash": "42a5446f5f4e"
   },
   {
     "id": "CSR-0028",
@@ -1095,15 +1077,12 @@
       {
         "t": "Le tiroir profond",
         "d": "Bien plus pratique qu'un placard bas."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-03T15:40:00Z",
     "products": [
       {
         "name": "Range-couvercles",
@@ -1117,7 +1096,7 @@
       }
     ],
     "image": "img/CSR-0028.jpg",
-    "render_hash": "ed034cf605dc"
+    "render_hash": "0e1097df1cfe"
   },
   {
     "id": "CSR-0029",
@@ -1143,17 +1122,14 @@
       {
         "t": "Les emballages d'origine",
         "d": "Pour garder les consignes et les précautions."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-05T15:40:00Z",
     "image": "img/CSR-0029.jpg",
-    "render_hash": "34b898fcd764"
+    "render_hash": "08af8aa039fe"
   },
   {
     "id": "CSR-0030",
@@ -1179,17 +1155,14 @@
       {
         "t": "Une boîte étanche",
         "d": "Pour les coussins quand il pleut."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-08T07:40:00Z",
     "image": "img/CSR-0030.jpg",
-    "render_hash": "dc6602dc532d"
+    "render_hash": "90f7b5305a7c"
   },
   {
     "id": "CSR-0031",
@@ -1215,17 +1188,14 @@
       {
         "t": "Sous le lit",
         "d": "Dans une boîte plate si l'armoire est pleine."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-09T07:40:00Z",
     "image": "img/CSR-0031.jpg",
-    "render_hash": "e9de07ecff8f"
+    "render_hash": "9d53e705cc51"
   },
   {
     "id": "CSR-0032",
@@ -1251,15 +1221,12 @@
       {
         "t": "Rien au sol",
         "d": "Le nettoyage devient beaucoup plus rapide."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-07T15:40:00Z",
     "products": [
       {
         "name": "Étagère de douche d'angle sans perçage",
@@ -1273,7 +1240,7 @@
       }
     ],
     "image": "img/CSR-0032.jpg",
-    "render_hash": "a97d2e21ea7f"
+    "render_hash": "a5b0f1137049"
   },
   {
     "id": "CSR-0033",
@@ -1299,15 +1266,12 @@
       {
         "t": "Une seule gamme",
         "d": "Des formats compatibles qui s'empilent bien."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-06T15:40:00Z",
     "products": [
       {
         "name": "Boîtes alimentaires empilables",
@@ -1321,7 +1285,7 @@
       }
     ],
     "image": "img/CSR-0033.jpg",
-    "render_hash": "f68204541255"
+    "render_hash": "cc38b407e022"
   },
   {
     "id": "CSR-0034",
@@ -1347,15 +1311,12 @@
       {
         "t": "Une liste sur la porte",
         "d": "On note ce qui manque dès qu'on le remarque."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-08T15:40:00Z",
     "products": [
       {
         "name": "Étagère métallique de rangement",
@@ -1369,7 +1330,7 @@
       }
     ],
     "image": "img/CSR-0034.jpg",
-    "render_hash": "15cb9720df23"
+    "render_hash": "384f0678b33a"
   },
   {
     "id": "CSR-0035",
@@ -1444,17 +1405,14 @@
       {
         "t": "Un bureau dégagé",
         "d": "Un pot à crayons et un bac à papiers, c'est tout."
-      },
-      {
-        "t": "render",
-        "d": "non"
       }
     ],
     "visual": "render",
     "ai_visual": false,
     "in_feed": true,
+    "publish_at": "2026-11-10T07:40:00Z",
     "image": "img/CSR-0036.jpg",
-    "render_hash": "8a3d8b3b9919"
+    "render_hash": "f7c8fa3a691b"
   },
   {
     "id": "CSR-0037",
