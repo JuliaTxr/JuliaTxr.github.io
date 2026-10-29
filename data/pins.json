@@ -1450,5 +1450,51 @@
     "publish_at": "2026-11-10T15:40:00Z",
     "image": "img/CSR-0037.jpg",
     "render_hash": "2be85450d7fb"
+  },
+  {
+    "id": "CSR-0038",
+    "slug": "rangement-placard-cuisine-bocaux-bacs-paniers",
+    "board": "cuisine",
+    "kicker": "Astuce rangement",
+    "title": "Rangement placard cuisine : bocaux, bacs et paniers",
+    "description": "Un placard de cuisine où tout se voit d'un coup d'œil : bocaux en verre pour les aliments secs, bacs transparents par catégorie et paniers en fibre naturelle pour le reste. Une idée de rangement placard cuisine simple et chaleureuse, même dans un petit espace.",
+    "intro": "Trois types de contenants suffisent à transformer un placard encombré : du verre pour voir, des bacs pour regrouper, des paniers pour cacher.",
+    "tips": [
+      {
+        "t": "Des bocaux en verre",
+        "d": "Pâtes, riz et farine visibles, fini les paquets ouverts."
+      },
+      {
+        "t": "Des bacs transparents",
+        "d": "Un bac par catégorie, qu'on sort comme un tiroir."
+      },
+      {
+        "t": "Des paniers naturels",
+        "d": "Pour les légumes et ce qu'on préfère cacher."
+      },
+      {
+        "t": "Des étiquettes simples",
+        "d": "Tout le monde sait où ranger les courses."
+      }
+    ],
+    "visual": "canva",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-11T07:40:00Z",
+    "products": [
+      {
+        "name": "Bocaux en verre hermétiques",
+        "url": "https://www.amazon.fr/s?k=bocaux+verre+hermetiques+cuisine&tag=chezsoirange-21",
+        "why": "Pour voir d'un coup d'œil ce qu'il reste."
+      },
+      {
+        "name": "Paniers de rangement en fibre naturelle",
+        "url": "https://www.amazon.fr/s?k=panier+rangement+fibre+naturelle+cuisine&tag=chezsoirange-21",
+        "why": "Pour les légumes et les réserves."
+      }
+    ],
+    "image": "img/CSR-0038.png",
+    "image_url": "https://export-download.canva.com/VZ3HU/DAHZYiVZ3HU/-1/0/0001-4755195799885221913.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261029%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T053355Z&X-Amz-Expires=23860&X-Amz-Signature=a99b85d65f48459881571dd77424d1c6d53e25463baed32084985ca98ee78f38&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Thu%2C%2029%20Oct%202026%2012%3A11%3A35%20GMT",
+    "fetch_error": "HTTP Error 403: Forbidden"
   }
 ]
