@@ -1494,7 +1494,7 @@
       }
     ],
     "image": "img/CSR-0038.png",
-    "image_url": "https://export-download.canva.com/VZ3HU/DAHZYiVZ3HU/-1/0/0001-4755195799885221913.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261029%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T053355Z&X-Amz-Expires=23860&X-Amz-Signature=a99b85d65f48459881571dd77424d1c6d53e25463baed32084985ca98ee78f38&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Thu%2C%2029%20Oct%202026%2012%3A11%3A35%20GMT",
+    "image_url": "https://export-download.canva.com/VZ3HU/DAHZYiVZ3HU/-1/0/0001-7031765423445050902.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T163225Z&X-Amz-Expires=78377&X-Amz-Signature=c10f873229c409d4f19b13391dd3d184214bb2baa8b02adfbc6393e522a7cd94&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Thu%2C%2029%20Oct%202026%2014%3A18%3A42%20GMT",
     "fetch_error": "HTTP Error 403: Forbidden"
   }
 ]
