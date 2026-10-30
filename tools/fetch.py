@@ -8,6 +8,24 @@ path = os.path.join(ROOT, "data", "pins.json")
 pins = json.load(open(path, encoding="utf-8"))
 changed = False
 for p in pins:
+    purl = p.get("photo_url")
+    if purl:
+        raw = os.path.join(ROOT, "img", "raw", p["id"] + ".jpg")
+        if not os.path.exists(raw):
+            try:
+                req = urllib.request.Request(purl, headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    data = r.read()
+                if len(data) < 10000 or data[:1] == b"<":
+                    raise ValueError("pas une image (fichier Drive non partagé par lien ?)")
+                os.makedirs(os.path.dirname(raw), exist_ok=True)
+                open(raw, "wb").write(data)
+                p.pop("fetch_error", None)
+                print("photo", p["id"], len(data))
+            except Exception as e:
+                p["fetch_error"] = str(e)[:200]
+                print("erreur photo", p["id"], e)
+            changed = True
     url = p.get("image_url")
     if not url or not p.get("image"):
         continue
@@ -35,3 +53,6 @@ if changed:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(pins, f, ensure_ascii=False, indent=2)
         f.write("\n")
+# Compose tout de suite les photos fraîchement téléchargées (un seul passage suffit)
+import subprocess, sys
+subprocess.run([sys.executable, os.path.join(ROOT, "tools", "render.py")], check=False)

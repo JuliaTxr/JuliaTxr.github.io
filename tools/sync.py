@@ -88,13 +88,15 @@ def main():
         p["image"] = f"img/{pid}.png" if p["visual"] == "canva" else f"img/{pid}.jpg"
         if p["visual"] == "canva" and r.get("image_url", "").strip():
             p["image_url"] = r["image_url"].strip()
+        if p["visual"] == "photo" and r.get("image_url", "").strip():
+            p["photo_url"] = r["image_url"].strip()  # photo IA brute (Drive public), composée par render.py
         o = old.get(pid)
         if o and (live(o, now) or not o.get("in_feed", True)):
             p["slug"] = o["slug"]  # adresse publique figée
             if o.get("publish_at"):
                 p["publish_at"] = o["publish_at"]
-        if p["visual"] == "render":
-            h = visual_hash(p)
+        if p["visual"] in ("render", "photo"):
+            h = visual_hash(p) + (p.get("photo_url", "")[-12:] if p["visual"] == "photo" else "")
             img = os.path.join(ROOT, p["image"])
             if o and o.get("render_hash") != h and os.path.exists(img) and not (o and live(o, now)):
                 os.remove(img)  # contenu modifié avant publication : nouveau visuel

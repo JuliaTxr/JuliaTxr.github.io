@@ -1477,10 +1477,10 @@
         "d": "Tout le monde sait où ranger les courses."
       }
     ],
-    "visual": "canva",
+    "visual": "photo",
     "ai_visual": true,
     "in_feed": true,
-    "publish_at": "2026-11-11T07:40:00Z",
+    "publish_at": "2026-10-30T11:40:00Z",
     "products": [
       {
         "name": "Bocaux en verre hermétiques",
@@ -1493,8 +1493,1108 @@
         "why": "Pour les légumes et les réserves."
       }
     ],
-    "image": "img/CSR-0038.png",
-    "image_url": "https://export-download.canva.com/VZ3HU/DAHZYiVZ3HU/-1/0/0001-7031765423445050902.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T163225Z&X-Amz-Expires=78377&X-Amz-Signature=c10f873229c409d4f19b13391dd3d184214bb2baa8b02adfbc6393e522a7cd94&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Thu%2C%2029%20Oct%202026%2014%3A18%3A42%20GMT",
-    "fetch_error": "HTTP Error 403: Forbidden"
+    "image": "img/CSR-0038.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1YQ74HLb_wAUxoDJxy4pnMmR84OU2smwn",
+    "render_hash": "24fae2eb92e7MmR84OU2smwn"
+  },
+  {
+    "id": "CSR-0039",
+    "slug": "petite-chambre-cosy-idees-rangement",
+    "board": "chambre-dressing",
+    "kicker": "Petite chambre",
+    "title": "Petite chambre cosy : 5 idées de rangement",
+    "description": "Une petite chambre peut rester calme et rangée : lit avec tiroirs, étagère murale, boîtes en tissu et panier au pied du lit. 5 idées de rangement chambre simples pour gagner de la place sans encombrer, dans une ambiance douce et naturelle.",
+    "intro": "Dans une petite chambre, chaque rangement doit être discret. L'idée : utiliser le dessous du lit, les murs et quelques contenants doux qui cachent le désordre.",
+    "tips": [
+      {
+        "t": "Un lit avec tiroirs",
+        "d": "Le linge et le hors-saison disparaissent sous le lit."
+      },
+      {
+        "t": "Une étagère murale",
+        "d": "Elle libère la table de chevet et le sol."
+      },
+      {
+        "t": "Des boîtes en tissu",
+        "d": "Pour cacher les petites choses en gardant une ambiance douce."
+      },
+      {
+        "t": "Un panier au pied du lit",
+        "d": "Pour le plaid, les coussins ou le linge propre."
+      },
+      {
+        "t": "Des couleurs claires",
+        "d": "Bois clair, blanc et vert sauge agrandissent la pièce."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-10-31T11:40:00Z",
+    "products": [
+      {
+        "name": "Tiroirs de rangement sous lit",
+        "url": "https://www.amazon.fr/s?k=rangement+sous+lit+roulettes&tag=chezsoirange-21",
+        "why": "Pour le linge et le hors-saison."
+      },
+      {
+        "name": "Boîtes de rangement en tissu",
+        "url": "https://www.amazon.fr/s?k=boite+rangement+tissu&tag=chezsoirange-21",
+        "why": "Pour cacher les petites choses sur l'étagère."
+      },
+      {
+        "name": "Panier tressé",
+        "url": "https://www.amazon.fr/s?k=panier+tress%C3%A9+rangement&tag=chezsoirange-21",
+        "why": "Pour le plaid au pied du lit."
+      }
+    ],
+    "image": "img/CSR-0039.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1rwFO7_z3jUDPnvGPT0a4AHi4xHxHsF_k",
+    "render_hash": "60b64d42b942AHi4xHxHsF_k"
+  },
+  {
+    "id": "CSR-0040",
+    "slug": "petite-salle-de-bain-idees-rangement-malin",
+    "board": "salle-de-bain",
+    "kicker": "Petite salle de bain",
+    "title": "Petite salle de bain : 5 idées de rangement malin",
+    "description": "Une petite salle de bain bien organisée : étagère au-dessus des toilettes, paniers tressés, serviettes roulées et échelle porte-serviettes en bois. 5 idées de rangement salle de bain pour gagner de la place sans travaux.",
+    "intro": "Quand la place manque, on monte : le mur au-dessus des toilettes et l'espace vertical deviennent les meilleurs rangements de la pièce.",
+    "tips": [
+      {
+        "t": "Une étagère au-dessus des WC",
+        "d": "Un espace souvent vide qui devient un vrai rangement."
+      },
+      {
+        "t": "Des paniers tressés",
+        "d": "Pour cacher les flacons et les petits produits."
+      },
+      {
+        "t": "Des serviettes roulées",
+        "d": "Elles prennent moins de place et restent jolies."
+      },
+      {
+        "t": "Une échelle porte-serviettes",
+        "d": "Elle sèche et range sans perçage."
+      },
+      {
+        "t": "Quelques plantes vertes",
+        "d": "Elles apportent de la fraîcheur sans encombrer."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-01T11:40:00Z",
+    "products": [
+      {
+        "name": "Étagère au-dessus des WC",
+        "url": "https://www.amazon.fr/s?k=etagere+au+dessus+wc&tag=chezsoirange-21",
+        "why": "Pour gagner de la place en hauteur."
+      },
+      {
+        "name": "Échelle porte-serviettes en bois",
+        "url": "https://www.amazon.fr/s?k=echelle+porte+serviette+bois&tag=chezsoirange-21",
+        "why": "Elle sèche et range en même temps."
+      },
+      {
+        "name": "Paniers tressés",
+        "url": "https://www.amazon.fr/s?k=panier+tress%C3%A9+salle+de+bain&tag=chezsoirange-21",
+        "why": "Pour cacher les petits flacons."
+      }
+    ],
+    "image": "img/CSR-0040.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1b6CoOMPqon-R2A09e-i4puWLBumQGARY",
+    "render_hash": "10f7a90cde1fpuWLBumQGARY"
+  },
+  {
+    "id": "CSR-0041",
+    "slug": "entree-etroite-idees-rangement-gain-de-place",
+    "board": "petit-appartement",
+    "kicker": "Petite entrée",
+    "title": "Entrée étroite : 5 idées de rangement gain de place",
+    "description": "Une entrée étroite peut rester pratique et accueillante : banc à chaussures avec paniers, patères murales, petit miroir et vide-poche. 5 idées de rangement entrée pour petit appartement, simples à mettre en place.",
+    "intro": "Dans une entrée étroite, tout se joue sur le mur et sous le banc : on range en hauteur et on cache dans des paniers.",
+    "tips": [
+      {
+        "t": "Un banc à chaussures",
+        "d": "On s'assoit pour se chausser, les paires sont rangées dessous."
+      },
+      {
+        "t": "Des paniers sous le banc",
+        "d": "Écharpes, bonnets et gants restent à portée de main."
+      },
+      {
+        "t": "Des patères murales",
+        "d": "Manteaux et sacs quittent les chaises."
+      },
+      {
+        "t": "Un petit miroir rond",
+        "d": "Il agrandit visuellement l'entrée."
+      },
+      {
+        "t": "Un vide-poche",
+        "d": "Clés et courrier ont enfin leur place."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-02T11:40:00Z",
+    "products": [
+      {
+        "name": "Banc à chaussures en bois",
+        "url": "https://www.amazon.fr/s?k=banc+chaussures+bois+entree&tag=chezsoirange-21",
+        "why": "Pour s'asseoir et ranger en même temps."
+      },
+      {
+        "name": "Patères murales",
+        "url": "https://www.amazon.fr/s?k=patere+murale+bois&tag=chezsoirange-21",
+        "why": "Pour les manteaux et les sacs."
+      },
+      {
+        "name": "Vide-poche d'entrée",
+        "url": "https://www.amazon.fr/s?k=vide+poche+entree&tag=chezsoirange-21",
+        "why": "Pour les clés et le courrier."
+      }
+    ],
+    "image": "img/CSR-0041.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1CZblUkSmC6L8ZGrE-BCWXHwjX3BW8U75",
+    "render_hash": "12244d013004XHwjX3BW8U75"
+  },
+  {
+    "id": "CSR-0042",
+    "slug": "armoire-a-linge-idees-placard-bien-range",
+    "board": "organisation-maison",
+    "kicker": "Armoire à linge",
+    "title": "Armoire à linge : 5 idées pour un placard bien rangé",
+    "description": "Une armoire à linge où tout se retrouve : draps et serviettes en piles nettes, paniers en fibre naturelle et sachets de lavande. 5 idées de rangement linge de maison pour garder un placard propre et organisé.",
+    "intro": "Une armoire à linge bien rangée, c'est surtout des piles par usage et quelques paniers pour ce qui ne se plie pas bien.",
+    "tips": [
+      {
+        "t": "Des piles par usage",
+        "d": "Draps, serviettes et torchons ont chacun leur étagère."
+      },
+      {
+        "t": "Des parures rangées ensemble",
+        "d": "Le drap plié dans sa taie : tout est prêt."
+      },
+      {
+        "t": "Des paniers naturels",
+        "d": "Pour les petites serviettes et les gants."
+      },
+      {
+        "t": "Les plus utilisés à hauteur",
+        "d": "Le linge d'invités va en haut."
+      },
+      {
+        "t": "Des sachets de lavande",
+        "d": "Une odeur fraîche et naturelle."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-03T11:40:00Z",
+    "products": [
+      {
+        "name": "Paniers en fibre naturelle",
+        "url": "https://www.amazon.fr/s?k=panier+rangement+fibre+naturelle&tag=chezsoirange-21",
+        "why": "Pour les petites pièces de linge."
+      },
+      {
+        "name": "Séparateurs d'étagère",
+        "url": "https://www.amazon.fr/s?k=s%C3%A9parateur+%C3%A9tag%C3%A8re+armoire&tag=chezsoirange-21",
+        "why": "Pour que les piles tiennent droites."
+      },
+      {
+        "name": "Sachets de lavande",
+        "url": "https://www.amazon.fr/s?k=sachet+lavande+armoire&tag=chezsoirange-21",
+        "why": "Pour parfumer le linge."
+      }
+    ],
+    "image": "img/CSR-0042.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1MR_4DZIG5s23zOB6WC6l68EkWiCbgnUY",
+    "render_hash": "fe52be15317568EkWiCbgnUY"
+  },
+  {
+    "id": "CSR-0043",
+    "slug": "petite-cuisine-liberer-plan-de-travail",
+    "board": "cuisine",
+    "kicker": "Petite cuisine",
+    "title": "Petite cuisine : 5 idées pour libérer le plan de travail",
+    "description": "Un plan de travail dégagé change tout dans une petite cuisine : barre murale pour les ustensiles, étagère murale, bocaux en verre et aromatiques en pot. 5 idées de rangement cuisine pour gagner de la place sans travaux.",
+    "intro": "Pour libérer le plan de travail, on monte tout au mur : ustensiles suspendus, étagère et bocaux gardent l'essentiel à portée de main.",
+    "tips": [
+      {
+        "t": "Une barre murale",
+        "d": "Les ustensiles suspendus libèrent les tiroirs et le plan."
+      },
+      {
+        "t": "Une étagère murale",
+        "d": "Pour les bocaux et ce qu'on utilise tous les jours."
+      },
+      {
+        "t": "Des bocaux en verre",
+        "d": "On voit ce qu'il reste en un coup d'œil."
+      },
+      {
+        "t": "Une seule planche visible",
+        "d": "Le reste se range debout dans un placard."
+      },
+      {
+        "t": "Des aromatiques en pot",
+        "d": "Utiles, jolies et peu encombrantes."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-04T11:40:00Z",
+    "products": [
+      {
+        "name": "Barre murale avec crochets",
+        "url": "https://www.amazon.fr/s?k=barre+cuisine+crochets+ustensiles&tag=chezsoirange-21",
+        "why": "Pour suspendre les ustensiles."
+      },
+      {
+        "name": "Étagère murale en bois",
+        "url": "https://www.amazon.fr/s?k=etagere+murale+bois+cuisine&tag=chezsoirange-21",
+        "why": "Pour garder l'essentiel à portée de main."
+      },
+      {
+        "name": "Bocaux en verre hermétiques",
+        "url": "https://www.amazon.fr/s?k=bocaux+verre+hermetiques+cuisine&tag=chezsoirange-21",
+        "why": "Pour les aliments secs."
+      }
+    ],
+    "image": "img/CSR-0043.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1kXaf__LoiiHWJIxrIzNLgXys9oto0Y6P",
+    "render_hash": "83f4b78a08ffgXys9oto0Y6P"
+  },
+  {
+    "id": "CSR-0044",
+    "slug": "dressing-ouvert-idees-rangement-net",
+    "board": "chambre-dressing",
+    "kicker": "Dressing",
+    "title": "Dressing ouvert : 5 idées pour un rangement net",
+    "description": "Un petit dressing ouvert peut rester net : cintres en bois identiques, vêtements par couleur, pulls en piles, boîtes en tissu en hauteur et chaussures alignées. 5 idées de rangement dressing faciles à garder au quotidien.",
+    "intro": "Un dressing ouvert se voit : l'astuce est d'uniformiser (mêmes cintres, mêmes boîtes) pour que tout paraisse rangé.",
+    "tips": [
+      {
+        "t": "Des cintres identiques",
+        "d": "Une ligne régulière, plus de place sur la barre."
+      },
+      {
+        "t": "Classer par couleur",
+        "d": "On trouve plus vite et c'est plus joli."
+      },
+      {
+        "t": "Les pulls en piles",
+        "d": "Ils ne se déforment pas sur les cintres."
+      },
+      {
+        "t": "Des boîtes en tissu en haut",
+        "d": "Pour le hors-saison et les accessoires."
+      },
+      {
+        "t": "Les chaussures alignées en bas",
+        "d": "Une rangée par usage, toujours visibles."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-05T11:40:00Z",
+    "products": [
+      {
+        "name": "Cintres en bois",
+        "url": "https://www.amazon.fr/s?k=cintre+bois+lot&tag=chezsoirange-21",
+        "why": "Pour une penderie uniforme."
+      },
+      {
+        "name": "Boîtes de rangement en tissu",
+        "url": "https://www.amazon.fr/s?k=boite+rangement+tissu+armoire&tag=chezsoirange-21",
+        "why": "Pour le hors-saison en hauteur."
+      },
+      {
+        "name": "Étagère à chaussures",
+        "url": "https://www.amazon.fr/s?k=etagere+chaussures+bois&tag=chezsoirange-21",
+        "why": "Pour aligner les paires."
+      }
+    ],
+    "image": "img/CSR-0044.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1YPNMKWaDBKRhq1TZEhPHFAX3XmQxXVKd",
+    "render_hash": "b38f4c9841a6FAX3XmQxXVKd"
+  },
+  {
+    "id": "CSR-0045",
+    "slug": "rangement-sous-lavabo-meuble-organise",
+    "board": "salle-de-bain",
+    "kicker": "Sous le lavabo",
+    "title": "Rangement sous lavabo : 5 idées pour un meuble organisé",
+    "description": "Le meuble sous lavabo devient pratique avec de petits bacs transparents, des paniers tressés, des flacons alignés et des serviettes roulées. 5 idées de rangement salle de bain pour organiser un meuble sous vasque.",
+    "intro": "Sous le lavabo, la place est coupée par le siphon : des bacs et paniers de tailles différentes permettent de tout utiliser.",
+    "tips": [
+      {
+        "t": "Des bacs transparents",
+        "d": "On voit tout sans fouiller."
+      },
+      {
+        "t": "Des paniers tressés",
+        "d": "Pour les produits qu'on préfère cacher."
+      },
+      {
+        "t": "Un bac par catégorie",
+        "d": "Soins, cheveux, réserves : chacun sa place."
+      },
+      {
+        "t": "Des serviettes roulées",
+        "d": "Elles se glissent dans les petits espaces."
+      },
+      {
+        "t": "Les réserves au fond",
+        "d": "Les produits du quotidien devant."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-06T11:40:00Z",
+    "products": [
+      {
+        "name": "Bacs de rangement transparents",
+        "url": "https://www.amazon.fr/s?k=bac+rangement+transparent+salle+de+bain&tag=chezsoirange-21",
+        "why": "Pour voir tous les produits."
+      },
+      {
+        "name": "Étagère sous lavabo",
+        "url": "https://www.amazon.fr/s?k=etagere+sous+lavabo&tag=chezsoirange-21",
+        "why": "Elle contourne le siphon."
+      },
+      {
+        "name": "Paniers tressés",
+        "url": "https://www.amazon.fr/s?k=panier+tress%C3%A9+salle+de+bain&tag=chezsoirange-21",
+        "why": "Pour cacher les petits flacons."
+      }
+    ],
+    "image": "img/CSR-0045.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1pby3qVaWC1BNu8QTb2kwCMEWxQx36JyG",
+    "render_hash": "79199e83f00cCMEWxQx36JyG"
+  },
+  {
+    "id": "CSR-0046",
+    "slug": "coin-salon-studio-idees-rangement-cosy",
+    "board": "petit-appartement",
+    "kicker": "Petit studio",
+    "title": "Coin salon de studio : 5 idées de rangement cosy",
+    "description": "Un coin salon de studio rangé et chaleureux : étagères murales flottantes, pouf coffre, panier à plaid et canapé clair. 5 idées de rangement petit appartement pour gagner de la place sans perdre le côté cosy.",
+    "intro": "Dans un studio, le salon sert à tout : on choisit des meubles qui rangent en plus de leur fonction et on libère le sol.",
+    "tips": [
+      {
+        "t": "Des étagères flottantes",
+        "d": "Livres et plantes au mur, le sol reste libre."
+      },
+      {
+        "t": "Un pouf coffre",
+        "d": "Un siège en plus et une cachette pour les jeux ou les câbles."
+      },
+      {
+        "t": "Un panier à plaid",
+        "d": "Le plaid et les coussins ont leur place."
+      },
+      {
+        "t": "Un canapé clair",
+        "d": "Il agrandit visuellement la pièce."
+      },
+      {
+        "t": "Peu d'objets en vue",
+        "d": "Trois ou quatre jolies choses suffisent."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-07T11:40:00Z",
+    "products": [
+      {
+        "name": "Pouf coffre de rangement",
+        "url": "https://www.amazon.fr/s?k=pouf+coffre+rangement&tag=chezsoirange-21",
+        "why": "Un siège en plus et une cachette."
+      },
+      {
+        "name": "Étagères murales flottantes",
+        "url": "https://www.amazon.fr/s?k=etagere+murale+flottante&tag=chezsoirange-21",
+        "why": "Elles libèrent le sol."
+      },
+      {
+        "name": "Panier tressé à plaid",
+        "url": "https://www.amazon.fr/s?k=panier+tress%C3%A9+plaid&tag=chezsoirange-21",
+        "why": "Pour le plaid et les coussins."
+      }
+    ],
+    "image": "img/CSR-0046.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1TF1TRvi-X9AHNoec552X3yDFnJP5wyOd",
+    "render_hash": "285cde1c43003yDFnJP5wyOd"
+  },
+  {
+    "id": "CSR-0047",
+    "slug": "rangement-tiroir-couverts-cuisine",
+    "board": "cuisine",
+    "kicker": "Tiroir cuisine",
+    "title": "Tiroir à couverts : 5 idées pour un rangement parfait",
+    "description": "Un tiroir à couverts bien rangé fait gagner du temps chaque jour : séparateurs en bambou, une case par usage, ustensiles couchés dans le même sens. 5 idées de rangement cuisine simples pour organiser ses tiroirs.",
+    "intro": "Le tiroir à couverts est ouvert dix fois par jour : quelques séparateurs suffisent pour qu'il reste rangé.",
+    "tips": [
+      {
+        "t": "Des séparateurs en bambou",
+        "d": "Chaque couvert a sa case."
+      },
+      {
+        "t": "Les plus utilisés devant",
+        "d": "Fourchettes et cuillères à portée de main."
+      },
+      {
+        "t": "Les ustensiles dans le même sens",
+        "d": "On les attrape sans fouiller."
+      },
+      {
+        "t": "Un tiroir pour les grands ustensiles",
+        "d": "Louches et spatules ne gênent plus."
+      },
+      {
+        "t": "Un tri tous les six mois",
+        "d": "On enlève ce qui ne sert jamais."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-08T11:40:00Z",
+    "products": [
+      {
+        "name": "Range-couverts en bambou extensible",
+        "url": "https://www.amazon.fr/s?k=range+couverts+bambou+extensible&tag=chezsoirange-21",
+        "why": "Il s'adapte à la largeur du tiroir."
+      },
+      {
+        "name": "Séparateurs de tiroir",
+        "url": "https://www.amazon.fr/s?k=separateur+tiroir+cuisine&tag=chezsoirange-21",
+        "why": "Pour les grands ustensiles."
+      },
+      {
+        "name": "Organiseur pour ustensiles",
+        "url": "https://www.amazon.fr/s?k=organiseur+ustensiles+tiroir&tag=chezsoirange-21",
+        "why": "Une case par outil."
+      }
+    ],
+    "image": "img/CSR-0047.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1L8t74OEG9nQIpkDZYY65X6VJ2n3GsTKq",
+    "render_hash": "0d80cfb05e6eX6VJ2n3GsTKq"
+  },
+  {
+    "id": "CSR-0048",
+    "slug": "rangement-table-de-chevet-idees",
+    "board": "chambre-dressing",
+    "kicker": "Table de chevet",
+    "title": "Table de chevet : 5 idées pour la garder rangée",
+    "description": "Une table de chevet calme pour mieux dormir : un tiroir pour cacher, un plateau vide-poche, une petite lampe et un panier en dessous. 5 idées de rangement chambre pour une table de nuit nette.",
+    "intro": "La table de chevet attire vite le désordre : l'idée est de ne garder dessus que l'essentiel du soir.",
+    "tips": [
+      {
+        "t": "Un modèle avec tiroir",
+        "d": "Pour cacher chargeurs et petites choses."
+      },
+      {
+        "t": "Un plateau vide-poche",
+        "d": "Bijoux et lunettes au même endroit."
+      },
+      {
+        "t": "Une petite lampe",
+        "d": "Elle laisse de la place pour le reste."
+      },
+      {
+        "t": "Un panier en dessous",
+        "d": "Pour les livres et magazines."
+      },
+      {
+        "t": "Un seul livre en cours",
+        "d": "Les autres retournent sur l'étagère."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-09T11:40:00Z",
+    "products": [
+      {
+        "name": "Table de chevet avec tiroir",
+        "url": "https://www.amazon.fr/s?k=table+de+chevet+tiroir+bois&tag=chezsoirange-21",
+        "why": "Pour cacher les petites choses."
+      },
+      {
+        "name": "Plateau vide-poche",
+        "url": "https://www.amazon.fr/s?k=plateau+vide+poche&tag=chezsoirange-21",
+        "why": "Pour les bijoux et les lunettes."
+      },
+      {
+        "name": "Panier tressé",
+        "url": "https://www.amazon.fr/s?k=panier+tress%C3%A9+rangement&tag=chezsoirange-21",
+        "why": "Pour les livres sous la table."
+      }
+    ],
+    "image": "img/CSR-0048.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1GN0iVTS4HB9pz_vRqf-xJnqRpuHLWkGl",
+    "render_hash": "21e5d1d5974aJnqRpuHLWkGl"
+  },
+  {
+    "id": "CSR-0049",
+    "slug": "armoire-de-toilette-idees-rangement",
+    "board": "salle-de-bain",
+    "kicker": "Salle de bain",
+    "title": "Armoire de toilette : 5 idées pour bien l'organiser",
+    "description": "Une armoire de toilette organisée au-dessus du lavabo : petits bacs, flacons alignés, étagères par usage. 5 idées de rangement salle de bain pour retrouver ses produits du quotidien en un geste.",
+    "intro": "L'armoire de toilette est le rangement le plus pratique de la salle de bain : à hauteur d'yeux, elle accueille tout ce qu'on utilise chaque jour.",
+    "tips": [
+      {
+        "t": "Une étagère par usage",
+        "d": "Soins, dents, cheveux : chacun son niveau."
+      },
+      {
+        "t": "Des petits bacs",
+        "d": "Pour regrouper les petits objets."
+      },
+      {
+        "t": "Les flacons alignés",
+        "d": "On voit ce qu'il reste."
+      },
+      {
+        "t": "Le quotidien à hauteur d'yeux",
+        "d": "Le reste en haut."
+      },
+      {
+        "t": "Un tri chaque saison",
+        "d": "On jette les produits périmés."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-10T11:40:00Z",
+    "products": [
+      {
+        "name": "Armoire de toilette avec miroir",
+        "url": "https://www.amazon.fr/s?k=armoire+toilette+miroir&tag=chezsoirange-21",
+        "why": "Elle range et sert de miroir."
+      },
+      {
+        "name": "Petits bacs de rangement",
+        "url": "https://www.amazon.fr/s?k=petit+bac+rangement+salle+de+bain&tag=chezsoirange-21",
+        "why": "Pour les petits objets."
+      },
+      {
+        "name": "Organiseur pour brosses à dents",
+        "url": "https://www.amazon.fr/s?k=organiseur+brosse+a+dent&tag=chezsoirange-21",
+        "why": "Pour libérer le lavabo."
+      }
+    ],
+    "image": "img/CSR-0049.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=18q8Pn2oa5zd-1q6Qc6Ls3C2QhytvGXKd",
+    "render_hash": "c1760307995d3C2QhytvGXKd"
+  },
+  {
+    "id": "CSR-0050",
+    "slug": "coin-repas-petit-appartement-table-murale",
+    "board": "petit-appartement",
+    "kicker": "Petit appartement",
+    "title": "Coin repas : 5 idées pour un petit appartement",
+    "description": "Un vrai coin repas même dans un petit appartement : table murale rabattable, chaises pliantes accrochées au mur et quelques plantes. 5 idées gain de place pour manger à table sans encombrer.",
+    "intro": "Pas de place pour une table ? Une table murale et des chaises pliantes créent un coin repas qui disparaît après le repas.",
+    "tips": [
+      {
+        "t": "Une table murale rabattable",
+        "d": "Elle se replie contre le mur."
+      },
+      {
+        "t": "Des chaises pliantes",
+        "d": "Accrochées au mur, elles libèrent le sol."
+      },
+      {
+        "t": "Un banc contre le mur",
+        "d": "Plus de places, moins d'encombrement."
+      },
+      {
+        "t": "Une étagère au-dessus",
+        "d": "Pour la vaisselle ou les plantes."
+      },
+      {
+        "t": "Une lumière dédiée",
+        "d": "Une suspension délimite le coin repas."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-11T11:40:00Z",
+    "products": [
+      {
+        "name": "Table murale rabattable",
+        "url": "https://www.amazon.fr/s?k=table+murale+rabattable&tag=chezsoirange-21",
+        "why": "Elle se replie après le repas."
+      },
+      {
+        "name": "Chaises pliantes en bois",
+        "url": "https://www.amazon.fr/s?k=chaise+pliante+bois&tag=chezsoirange-21",
+        "why": "Elles s'accrochent au mur."
+      },
+      {
+        "name": "Crochets muraux pour chaises",
+        "url": "https://www.amazon.fr/s?k=crochet+mural+chaise+pliante&tag=chezsoirange-21",
+        "why": "Pour libérer le sol."
+      }
+    ],
+    "image": "img/CSR-0050.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1ksPURezMsh2S8TZnnZN2I8iR9lxxwSbV",
+    "render_hash": "648261c34042I8iR9lxxwSbV"
+  },
+  {
+    "id": "CSR-0051",
+    "slug": "ranger-tiroir-fourre-tout-maison",
+    "board": "organisation-maison",
+    "kicker": "Organisation maison",
+    "title": "Tiroir fourre-tout : 5 idées pour enfin le ranger",
+    "description": "Le tiroir fourre-tout de la maison peut devenir pratique : petites boîtes compartimentées pour les piles, ciseaux, scotch, stylos et rubans. 5 idées d'organisation maison pour retrouver chaque objet.",
+    "intro": "Chaque maison a son tiroir fourre-tout : on le garde, mais avec des petites boîtes pour que chaque objet ait sa place.",
+    "tips": [
+      {
+        "t": "Tout vider d'abord",
+        "d": "On garde seulement ce qui sert."
+      },
+      {
+        "t": "Des boîtes compartimentées",
+        "d": "Piles, stylos, scotch : une case chacun."
+      },
+      {
+        "t": "Les objets du quotidien devant",
+        "d": "Ciseaux et stylos à portée de main."
+      },
+      {
+        "t": "Un sachet pour les câbles",
+        "d": "Fini les nœuds."
+      },
+      {
+        "t": "Un tri chaque mois",
+        "d": "Cinq minutes suffisent."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-12T11:40:00Z",
+    "products": [
+      {
+        "name": "Organiseur de tiroir modulable",
+        "url": "https://www.amazon.fr/s?k=organiseur+tiroir+modulable&tag=chezsoirange-21",
+        "why": "Des cases à composer."
+      },
+      {
+        "name": "Boîte de rangement pour piles",
+        "url": "https://www.amazon.fr/s?k=boite+rangement+piles&tag=chezsoirange-21",
+        "why": "Les piles rangées et visibles."
+      },
+      {
+        "name": "Pochettes pour câbles",
+        "url": "https://www.amazon.fr/s?k=pochette+rangement+cables&tag=chezsoirange-21",
+        "why": "Pour les chargeurs."
+      }
+    ],
+    "image": "img/CSR-0051.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1hWeXX5yd1-g5l7uh5sQlzdfWuwDWNZU7",
+    "render_hash": "32256550ca35zdfWuwDWNZU7"
+  },
+  {
+    "id": "CSR-0052",
+    "slug": "coin-cafe-cuisine-idees-rangement",
+    "board": "cuisine",
+    "kicker": "Coin café",
+    "title": "Coin café : 5 idées pour l'organiser dans la cuisine",
+    "description": "Un coin café joli et pratique dans la cuisine : plateau en bois, tasses suspendues, bocaux en verre pour le café et le sucre. 5 idées pour créer un coin café sans encombrer le plan de travail.",
+    "intro": "Regrouper tout ce qu'il faut pour le café au même endroit, c'est un plan de travail plus net et un rituel plus agréable.",
+    "tips": [
+      {
+        "t": "Un plateau en bois",
+        "d": "Il délimite le coin café."
+      },
+      {
+        "t": "Des tasses suspendues",
+        "d": "Des crochets sous une étagère libèrent le placard."
+      },
+      {
+        "t": "Des bocaux en verre",
+        "d": "Café, sucre et thé bien visibles."
+      },
+      {
+        "t": "Une petite étagère",
+        "d": "Pour les capsules ou les filtres."
+      },
+      {
+        "t": "Seulement l'essentiel",
+        "d": "Le reste reste dans le placard."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-13T11:40:00Z",
+    "products": [
+      {
+        "name": "Plateau en bois",
+        "url": "https://www.amazon.fr/s?k=plateau+bois+cuisine&tag=chezsoirange-21",
+        "why": "Pour délimiter le coin café."
+      },
+      {
+        "name": "Porte-tasses à crochets",
+        "url": "https://www.amazon.fr/s?k=porte+tasse+crochet&tag=chezsoirange-21",
+        "why": "Pour suspendre les tasses."
+      },
+      {
+        "name": "Bocaux en verre",
+        "url": "https://www.amazon.fr/s?k=bocal+verre+cafe+sucre&tag=chezsoirange-21",
+        "why": "Pour le café et le sucre."
+      }
+    ],
+    "image": "img/CSR-0052.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1_ptjiOpkrr1ncHJouZP0KRd1uBfbT76k",
+    "render_hash": "1d85ee0a8463KRd1uBfbT76k"
+  },
+  {
+    "id": "CSR-0053",
+    "slug": "rangement-sacs-a-main-idees",
+    "board": "chambre-dressing",
+    "kicker": "Dressing",
+    "title": "Rangement sacs à main : 5 idées qui les protègent",
+    "description": "Ranger ses sacs à main sans les abîmer : debout sur une étagère, avec des séparateurs, garnis pour garder leur forme. 5 idées de rangement dressing pour des sacs visibles et en bon état.",
+    "intro": "Des sacs empilés se déforment : rangés debout et séparés, ils restent beaux et on les voit tous.",
+    "tips": [
+      {
+        "t": "Debout sur une étagère",
+        "d": "Ils gardent leur forme."
+      },
+      {
+        "t": "Des séparateurs",
+        "d": "Chaque sac a sa place."
+      },
+      {
+        "t": "Garnis de papier",
+        "d": "Ils ne s'affaissent pas."
+      },
+      {
+        "t": "Les sacs du quotidien en bas",
+        "d": "Les autres plus haut."
+      },
+      {
+        "t": "Les pochettes en panier",
+        "d": "Pour les petits sacs du soir."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-14T11:40:00Z",
+    "products": [
+      {
+        "name": "Séparateurs d'étagère",
+        "url": "https://www.amazon.fr/s?k=s%C3%A9parateur+%C3%A9tag%C3%A8re+armoire&tag=chezsoirange-21",
+        "why": "Pour garder les sacs debout."
+      },
+      {
+        "name": "Organiseur pour sacs à main",
+        "url": "https://www.amazon.fr/s?k=organiseur+sac+a+main&tag=chezsoirange-21",
+        "why": "Pour ranger sans abîmer."
+      },
+      {
+        "name": "Housses de protection pour sacs",
+        "url": "https://www.amazon.fr/s?k=housse+protection+sac+a+main&tag=chezsoirange-21",
+        "why": "Contre la poussière."
+      }
+    ],
+    "image": "img/CSR-0053.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=17VExj4YqTjkUAZ8Iy9szdNxITNcBnDVI",
+    "render_hash": "ab5153f7f3c9dNxITNcBnDVI"
+  },
+  {
+    "id": "CSR-0054",
+    "slug": "panier-a-linge-salle-de-bain-idees",
+    "board": "salle-de-bain",
+    "kicker": "Salle de bain",
+    "title": "Panier à linge : 5 idées pour une salle de bain rangée",
+    "description": "Un coin linge bien pensé dans la salle de bain : panier tressé à deux compartiments, étagère murale et serviettes pliées. 5 idées de rangement salle de bain pour trier le linge dès qu'on l'enlève.",
+    "intro": "Un panier à linge bien choisi évite les vêtements par terre et fait gagner du temps au moment de la lessive.",
+    "tips": [
+      {
+        "t": "Un panier à deux compartiments",
+        "d": "Le tri blanc et couleur se fait tout seul."
+      },
+      {
+        "t": "Un modèle tressé",
+        "d": "Il cache le linge et reste joli."
+      },
+      {
+        "t": "Une étagère au-dessus",
+        "d": "Pour les serviettes propres."
+      },
+      {
+        "t": "Un sac amovible",
+        "d": "On l'emporte jusqu'à la machine."
+      },
+      {
+        "t": "Une place fixe",
+        "d": "Toujours au même endroit."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-15T11:40:00Z",
+    "products": [
+      {
+        "name": "Panier à linge deux compartiments",
+        "url": "https://www.amazon.fr/s?k=panier+linge+2+compartiments&tag=chezsoirange-21",
+        "why": "Le tri se fait tout seul."
+      },
+      {
+        "name": "Étagère murale salle de bain",
+        "url": "https://www.amazon.fr/s?k=etagere+murale+salle+de+bain&tag=chezsoirange-21",
+        "why": "Pour les serviettes propres."
+      },
+      {
+        "name": "Panier à linge tressé",
+        "url": "https://www.amazon.fr/s?k=panier+linge+tress%C3%A9&tag=chezsoirange-21",
+        "why": "Joli et discret."
+      }
+    ],
+    "image": "img/CSR-0054.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1icdNkZVGqdCQmCGSB15G0zwzBs_Hgo7t",
+    "render_hash": "a1707c741c320zwzBs_Hgo7t"
+  },
+  {
+    "id": "CSR-0055",
+    "slug": "coin-nuit-studio-separer-avec-etagere",
+    "board": "petit-appartement",
+    "kicker": "Petit studio",
+    "title": "Coin nuit dans un studio : séparer avec une étagère",
+    "description": "Créer un vrai coin nuit dans un studio grâce à une étagère ouverte en bois clair qui sert aussi de bibliothèque. 5 idées pour séparer l'espace sans cloison et gagner du rangement.",
+    "intro": "Une étagère ouverte sépare le lit du reste du studio tout en laissant passer la lumière, et elle range en plus.",
+    "tips": [
+      {
+        "t": "Une étagère ouverte",
+        "d": "Elle sépare sans assombrir."
+      },
+      {
+        "t": "Des livres et des boîtes",
+        "d": "Elle devient bibliothèque."
+      },
+      {
+        "t": "Des paniers en bas",
+        "d": "Pour le linge ou les chaussures."
+      },
+      {
+        "t": "Un tapis sous le lit",
+        "d": "Il marque le coin nuit."
+      },
+      {
+        "t": "Des couleurs douces",
+        "d": "Pour un espace calme."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-16T11:40:00Z",
+    "products": [
+      {
+        "name": "Étagère bibliothèque ouverte",
+        "url": "https://www.amazon.fr/s?k=etagere+bibliotheque+ouverte+bois&tag=chezsoirange-21",
+        "why": "Elle sépare et range."
+      },
+      {
+        "name": "Boîtes de rangement en tissu",
+        "url": "https://www.amazon.fr/s?k=boite+rangement+tissu&tag=chezsoirange-21",
+        "why": "Pour les cases de l'étagère."
+      },
+      {
+        "name": "Paniers en fibre naturelle",
+        "url": "https://www.amazon.fr/s?k=panier+rangement+fibre+naturelle&tag=chezsoirange-21",
+        "why": "Pour le bas de l'étagère."
+      }
+    ],
+    "image": "img/CSR-0055.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1SyCMk6aPHzgex-dSV_fOI2RLqUgskLcC",
+    "render_hash": "bebb4e185062I2RLqUgskLcC"
+  },
+  {
+    "id": "CSR-0056",
+    "slug": "meuble-tv-rangement-sans-cables",
+    "board": "organisation-maison",
+    "kicker": "Salon",
+    "title": "Meuble TV : 5 idées pour un salon sans câbles visibles",
+    "description": "Un meuble TV bas en bois clair, sans câbles visibles, avec boîtes et paniers dans les niches : 5 idées de rangement salon pour un coin télé net et apaisant.",
+    "intro": "Le meuble TV concentre câbles, télécommandes et petits objets : quelques boîtes et un cache-câbles suffisent pour un effet net.",
+    "tips": [
+      {
+        "t": "Un meuble bas et long",
+        "d": "Il range sans alourdir le mur."
+      },
+      {
+        "t": "Des boîtes dans les niches",
+        "d": "Télécommandes et manettes disparaissent."
+      },
+      {
+        "t": "Les câbles cachés",
+        "d": "Une goulotte ou une boîte à multiprise."
+      },
+      {
+        "t": "Des paniers pour le reste",
+        "d": "Plaids, jeux, consoles."
+      },
+      {
+        "t": "Peu de déco",
+        "d": "Deux ou trois objets suffisent."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-17T11:40:00Z",
+    "products": [
+      {
+        "name": "Boîte cache-multiprise",
+        "url": "https://www.amazon.fr/s?k=boite+cache+multiprise&tag=chezsoirange-21",
+        "why": "Pour cacher les câbles."
+      },
+      {
+        "name": "Goulotte cache-câbles",
+        "url": "https://www.amazon.fr/s?k=goulotte+cache+cable&tag=chezsoirange-21",
+        "why": "Pour les fils le long du mur."
+      },
+      {
+        "name": "Boîtes de rangement en tissu",
+        "url": "https://www.amazon.fr/s?k=boite+rangement+tissu&tag=chezsoirange-21",
+        "why": "Pour les niches du meuble."
+      }
+    ],
+    "image": "img/CSR-0056.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1g-GjzXlTSCiRXQmUHFgNsU_Ar9cggJw6",
+    "render_hash": "a1db456ed969sU_Ar9cggJw6"
+  },
+  {
+    "id": "CSR-0057",
+    "slug": "etageres-ouvertes-vaisselle-cuisine",
+    "board": "cuisine",
+    "kicker": "Cuisine",
+    "title": "Étagères ouvertes : 5 idées pour ranger la vaisselle",
+    "description": "Ranger la vaisselle sur des étagères ouvertes, joliment : assiettes empilées, bols et verres alignés, quelques plantes. 5 idées de rangement cuisine pour une vaisselle pratique et décorative.",
+    "intro": "Les étagères ouvertes donnent de l'air à une petite cuisine, à condition de garder une vaisselle simple et bien empilée.",
+    "tips": [
+      {
+        "t": "Une vaisselle assortie",
+        "d": "Une ou deux couleurs, c'est plus calme."
+      },
+      {
+        "t": "Des piles par type",
+        "d": "Assiettes, bols et verres séparés."
+      },
+      {
+        "t": "Le quotidien en bas",
+        "d": "À portée de main."
+      },
+      {
+        "t": "Quelques plantes",
+        "d": "Pour adoucir l'ensemble."
+      },
+      {
+        "t": "Ne pas tout remplir",
+        "d": "Laisser de l'espace entre les piles."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-18T11:40:00Z",
+    "products": [
+      {
+        "name": "Étagère murale en bois",
+        "url": "https://www.amazon.fr/s?k=etagere+murale+bois+cuisine&tag=chezsoirange-21",
+        "why": "Pour la vaisselle du quotidien."
+      },
+      {
+        "name": "Étagère d'angle pour placard",
+        "url": "https://www.amazon.fr/s?k=etagere+placard+vaisselle&tag=chezsoirange-21",
+        "why": "Pour doubler la hauteur."
+      },
+      {
+        "name": "Porte-assiettes vertical",
+        "url": "https://www.amazon.fr/s?k=porte+assiette+vertical&tag=chezsoirange-21",
+        "why": "Pour ranger les assiettes debout."
+      }
+    ],
+    "image": "img/CSR-0057.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1o5MFDHmjRpcHgI1ke8g7Y1R5gUbLlSay",
+    "render_hash": "c17c89e63fccY1R5gUbLlSay"
+  },
+  {
+    "id": "CSR-0058",
+    "slug": "rangement-jouets-salon-discret",
+    "board": "organisation-maison",
+    "kicker": "Organisation maison",
+    "title": "Rangement jouets dans le salon : 5 idées discrètes",
+    "description": "Ranger les jouets dans le salon sans qu'ils envahissent tout : paniers en tissu et en fibre naturelle sur une étagère basse, tapis clair. 5 idées de rangement jouets simples pour les enfants.",
+    "intro": "Les jouets au salon, c'est normal : avec une étagère basse et des paniers, les enfants rangent seuls et la pièce reste agréable.",
+    "tips": [
+      {
+        "t": "Une étagère basse",
+        "d": "Les enfants rangent seuls."
+      },
+      {
+        "t": "Des paniers par catégorie",
+        "d": "Voitures, peluches, jeux."
+      },
+      {
+        "t": "Des matières naturelles",
+        "d": "Les paniers se fondent dans la déco."
+      },
+      {
+        "t": "Une rotation des jouets",
+        "d": "Moins de jouets sortis, plus de jeu."
+      },
+      {
+        "t": "Un rangement en fin de journée",
+        "d": "Cinq minutes ensemble."
+      }
+    ],
+    "visual": "photo",
+    "ai_visual": true,
+    "in_feed": true,
+    "publish_at": "2026-11-19T11:40:00Z",
+    "products": [
+      {
+        "name": "Paniers de rangement en tissu",
+        "url": "https://www.amazon.fr/s?k=panier+rangement+tissu+jouets&tag=chezsoirange-21",
+        "why": "Pour trier les jouets."
+      },
+      {
+        "name": "Étagère basse pour enfants",
+        "url": "https://www.amazon.fr/s?k=etagere+basse+enfant+jouets&tag=chezsoirange-21",
+        "why": "À leur hauteur."
+      },
+      {
+        "name": "Paniers en fibre naturelle",
+        "url": "https://www.amazon.fr/s?k=panier+rangement+fibre+naturelle&tag=chezsoirange-21",
+        "why": "Discrets dans le salon."
+      }
+    ],
+    "image": "img/CSR-0058.jpg",
+    "photo_url": "https://drive.google.com/uc?export=download&id=1Ks5ipxu7aBSh2Ef9WvpS0CnUXV-rq2zy",
+    "render_hash": "96a3d333c1620CnUXV-rq2zy"
   }
 ]

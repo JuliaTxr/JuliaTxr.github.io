@@ -106,12 +106,52 @@ def render(pin, site):
     return img
 
 
+def render_photo(pin, site, raw_path):
+    """Épingle « photo » : photo IA en grand, bandeau titre vert sauge en haut, pied chezsoirange."""
+    accent = hex2rgb(site["boards"][pin["board"]]["accent"])
+    img = Image.new("RGB", (W, H), SAGE)
+    band_h = 470
+    ph = Image.open(raw_path).convert("RGB")
+    tw, th = W, H - band_h - 110
+    sc = max(tw / ph.width, th / ph.height)
+    ph = ph.resize((int(ph.width * sc) + 1, int(ph.height * sc) + 1), Image.LANCZOS)
+    left, top = (ph.width - tw) // 2, (ph.height - th) // 2
+    img.paste(ph.crop((left, top, left + tw, top + th)), (0, band_h))
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, band_h - 12, W, band_h], fill=accent)
+    kick = font("Poppins-Medium.ttf", 30)
+    ktxt = " ".join(pin.get("kicker", "Astuce rangement").upper())
+    kw = d.textlength(ktxt, font=kick)
+    d.text(((W - kw) / 2, 60), ktxt, font=kick, fill=(240, 244, 236))
+    tf, tlines, lh = fit_title(d, pin["title"], W - 120, band_h - 170)
+    y = 120 + (band_h - 160 - len(tlines) * lh) / 2
+    for ln in tlines:
+        lw = d.textlength(ln, font=tf)
+        d.text(((W - lw) / 2, y), ln, font=tf, fill=(255, 255, 255))
+        y += lh
+    brand = font("Lora-Variable.ttf", 46, b"SemiBold")
+    bt = "chezsoirange"
+    bw = d.textlength(bt, font=brand)
+    d.text(((W - bw) / 2, H - 88), bt, font=brand, fill=(255, 255, 255))
+    return img
+
+
 def main():
     site = json.load(open(os.path.join(ROOT, "data", "site.json"), encoding="utf-8"))
     pins = json.load(open(os.path.join(ROOT, "data", "pins.json"), encoding="utf-8"))
     wanted = set(sys.argv[1:])
     changed = False
     for p in pins:
+        if p.get("visual") == "photo":
+            rel = p.get("image") or f"img/{p['id']}.jpg"
+            out = os.path.join(ROOT, rel)
+            raw = os.path.join(ROOT, "img", "raw", p["id"] + ".jpg")
+            if os.path.exists(raw) and (not os.path.exists(out) or p["id"] in wanted):
+                render_photo(p, site, raw).save(out, "JPEG", quality=88, optimize=True, progressive=True)
+                p["image"] = rel
+                changed = True
+                print("rendu photo", p["id"], rel)
+            continue
         if p.get("visual") != "render":
             continue
         rel = p.get("image") or f"img/{p['id']}.jpg"
