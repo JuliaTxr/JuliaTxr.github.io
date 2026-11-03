@@ -85,7 +85,11 @@ def main():
                 p["products"] = json.loads(r["products_json"])
             except ValueError:
                 print("products_json invalide pour", pid)
-        p["image"] = f"img/{pid}.png" if p["visual"] == "canva" else f"img/{pid}.jpg"
+        # Depuis CSR-0059 : fichier image nommé avec les mots-clés du slug (formation PIA, étape 6).
+        # Les épingles plus anciennes gardent leur nom pour ne pas changer l'image d'un élément déjà dans les flux.
+        num = pid.split("-")[-1]
+        base = p["slug"] if num.isdigit() and int(num) >= 59 and p["slug"] else pid
+        p["image"] = f"img/{base}.png" if p["visual"] == "canva" else f"img/{base}.jpg"
         if p["visual"] == "canva" and r.get("image_url", "").strip():
             p["image_url"] = r["image_url"].strip()
         if p["visual"] == "photo" and r.get("image_url", "").strip():
@@ -93,6 +97,8 @@ def main():
         o = old.get(pid)
         if o and (live(o, now) or not o.get("in_feed", True)):
             p["slug"] = o["slug"]  # adresse publique figée
+            if o.get("image"):
+                p["image"] = o["image"]  # nom d'image figé une fois publiée
             if o.get("publish_at"):
                 p["publish_at"] = o["publish_at"]
         if p["visual"] in ("render", "photo"):
