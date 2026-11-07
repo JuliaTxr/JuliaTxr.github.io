@@ -1,6 +1,7 @@
 {
- "built_at": "2026-11-06T16:34:34.468701+00:00",
+ "built_at": "2026-11-07T08:34:15.654218+00:00",
  "live": [
+  "CSR-0026",
   "CSR-0033",
   "CSR-0045",
   "CSR-0017",
@@ -39,7 +40,6 @@
   "CSR-0004"
  ],
  "queue": [
-  "CSR-0026",
   "CSR-0030",
   "CSR-0031",
   "CSR-0032",
@@ -79,10 +79,10 @@
   "CSR-0075",
   "CSR-0076"
  ],
- "next_release": "2026-11-07T07:40:00Z",
+ "next_release": "2026-11-07T11:40:00Z",
  "undated": [],
  "deploy": "success",
  "page_url": "https://juliatxr.github.io/",
- "run": "https://github.com/JuliaTxr/JuliaTxr.github.io/actions/runs/42253632149",
- "checked_at": "2026-11-06T16:35:25.339081Z"
+ "run": "https://github.com/JuliaTxr/JuliaTxr.github.io/actions/runs/42356033411",
+ "checked_at": "2026-11-07T08:34:23.726926Z"
 }
