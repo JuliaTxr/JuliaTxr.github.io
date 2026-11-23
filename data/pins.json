@@ -4159,5 +4159,779 @@
     "publish_at": "2026-11-28T15:40:00Z",
     "image": "img/rangement-cuisine-tri-des-dechets.jpg",
     "render_hash": "0ae3c450674e"
+  },
+  {
+    "id": "CSR-0095",
+    "slug": "rangement-chambre-autour-de-la-fenetre",
+    "board": "chambre-dressing",
+    "kicker": "Fenêtre",
+    "title": "Rangement chambre : 5 idées pour ranger autour de la fenêtre",
+    "description": "Dans une petite chambre, le mur de la fenêtre reste souvent vide. Banquette coffre, étagères basses et rideaux qui cachent les rangements : 5 idées de rangement chambre pour gagner de la place sans perdre la lumière, et une astuce rangement simple pour garder l'espace dégagé.",
+    "intro": "Le mur de la fenêtre est un espace précieux : bien aménagé, il range beaucoup sans assombrir la pièce.",
+    "tips": [
+      {
+        "t": "Une banquette coffre",
+        "d": "Assise sous la fenêtre et rangement caché dedans."
+      },
+      {
+        "t": "Des étagères basses",
+        "d": "Sous l'appui, elles ne gênent ni la vue ni la lumière."
+      },
+      {
+        "t": "Des montants autour",
+        "d": "Une bibliothèque qui encadre la fenêtre."
+      },
+      {
+        "t": "Des rideaux longs",
+        "d": "Ils masquent les étagères du bas en un geste."
+      },
+      {
+        "t": "Rien sur l'appui",
+        "d": "On garde le rebord libre pour aérer facilement."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-11-29T07:40:00Z",
+    "image": "img/rangement-chambre-autour-de-la-fenetre.jpg",
+    "render_hash": "4d7d68cca5a5"
+  },
+  {
+    "id": "CSR-0096",
+    "slug": "rangement-salle-de-bain-sans-fenetre",
+    "board": "salle-de-bain",
+    "kicker": "Sans fenêtre",
+    "title": "Rangement salle de bain : 5 idées pour une petite pièce sans fenêtre",
+    "description": "Une petite salle de bain sans fenêtre paraît vite encombrée et l'humidité y reste. Meubles fermés, bacs lavables et surfaces claires : 5 idées de rangement salle de bain et d'organisation maison pour une pièce aérée, lumineuse et facile à entretenir.",
+    "intro": "Sans fenêtre, chaque objet en trop se voit : mieux vaut ranger fermé, clair et facile à nettoyer.",
+    "tips": [
+      {
+        "t": "Des rangements fermés",
+        "d": "Moins d'objets visibles, la pièce semble plus grande."
+      },
+      {
+        "t": "Des bacs lavables",
+        "d": "Ils supportent l'humidité et se rincent vite."
+      },
+      {
+        "t": "Un miroir avec tablette",
+        "d": "Il reflète la lumière et range l'essentiel."
+      },
+      {
+        "t": "Les serviettes au sec",
+        "d": "Sur un porte-serviettes, jamais roulées en tas."
+      },
+      {
+        "t": "Un tri chaque mois",
+        "d": "Les flacons entamés partent avant de s'accumuler."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-11-29T15:40:00Z",
+    "products": [
+      {
+        "name": "Boîtes de rangement plastique avec couvercle",
+        "url": "https://www.amazon.fr/s?k=boite+rangement+plastique+couvercle+salle+de+bain&tag=chezsoirange-21",
+        "why": "Elles résistent à l'humidité et se nettoient facilement."
+      },
+      {
+        "name": "Miroir avec tablette",
+        "url": "https://www.amazon.fr/s?k=miroir+salle+de+bain+tablette&tag=chezsoirange-21",
+        "why": "Il range l'essentiel et renvoie la lumière."
+      }
+    ],
+    "image": "img/rangement-salle-de-bain-sans-fenetre.jpg",
+    "render_hash": "c53fde2d11b0"
+  },
+  {
+    "id": "CSR-0097",
+    "slug": "rangement-entree-maison-cles-et-courrier",
+    "board": "petit-appartement",
+    "kicker": "Vide-poche",
+    "title": "Rangement entrée maison : 5 idées pour les clés, le courrier et les sacs",
+    "description": "Clés égarées, courrier qui s'empile, sacs posés au sol : une petite entrée se désorganise vite. Crochets, vide-poche et bac à courrier : 5 idées de rangement entrée maison et de rangement petit appartement pour que chaque objet du quotidien retrouve sa place.",
+    "intro": "Une entrée rangée tient à peu de choses : un endroit précis pour chaque objet qu'on pose en rentrant.",
+    "tips": [
+      {
+        "t": "Un crochet par clé",
+        "d": "Elles sont visibles et ne se perdent plus."
+      },
+      {
+        "t": "Un vide-poche unique",
+        "d": "Monnaie, badges et lunettes au même endroit."
+      },
+      {
+        "t": "Un bac à courrier",
+        "d": "Trié une fois par semaine, il ne déborde pas."
+      },
+      {
+        "t": "Des patères pour les sacs",
+        "d": "Le sol reste libre et le passage dégagé."
+      },
+      {
+        "t": "Une tablette étroite",
+        "d": "Juste assez pour poser, pas assez pour entasser."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-11-30T07:40:00Z",
+    "image": "img/rangement-entree-maison-cles-et-courrier.jpg",
+    "render_hash": "d36128b9de26"
+  },
+  {
+    "id": "CSR-0098",
+    "slug": "rangement-cuisine-petit-electromenager",
+    "board": "cuisine",
+    "kicker": "Appareils",
+    "title": "Rangement cuisine : 5 idées pour ranger le petit électroménager",
+    "description": "Mixeur, bouilloire, grille-pain : le petit électroménager envahit vite le plan de travail. Placard dédié, étagère coulissante et tri des appareils peu utilisés : 5 idées de rangement cuisine et de rangement placard cuisine pour libérer le plan sans rien perdre.",
+    "intro": "Seuls les appareils utilisés chaque jour méritent une place sur le plan de travail.",
+    "tips": [
+      {
+        "t": "Le quotidien dehors",
+        "d": "Un ou deux appareils maximum sur le plan."
+      },
+      {
+        "t": "Un placard dédié",
+        "d": "Les appareils rangés ensemble, câbles enroulés."
+      },
+      {
+        "t": "Une étagère coulissante",
+        "d": "On sort l'appareil sans le soulever."
+      },
+      {
+        "t": "Les accessoires groupés",
+        "d": "Lames et bols dans un bac à côté de l'appareil."
+      },
+      {
+        "t": "Un tri honnête",
+        "d": "Un appareil inutilisé depuis un an peut partir."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-11-30T15:40:00Z",
+    "products": [
+      {
+        "name": "Étagère coulissante pour placard",
+        "url": "https://www.amazon.fr/s?k=etagere+coulissante+placard+cuisine&tag=chezsoirange-21",
+        "why": "Elle évite de porter les appareils lourds."
+      },
+      {
+        "name": "Attache-câbles réutilisables",
+        "url": "https://www.amazon.fr/s?k=attache+cable+velcro+reutilisable&tag=chezsoirange-21",
+        "why": "Les fils restent enroulés et ne s'emmêlent plus."
+      }
+    ],
+    "image": "img/rangement-cuisine-petit-electromenager.jpg",
+    "render_hash": "c86fb7c57288"
+  },
+  {
+    "id": "CSR-0099",
+    "slug": "rangement-bureau-fournitures",
+    "board": "organisation-maison",
+    "kicker": "Fournitures",
+    "title": "Rangement bureau : 5 idées pour trier et ranger les fournitures",
+    "description": "Stylos qui ne marchent plus, trombones partout, cahiers en vrac : les fournitures de bureau s'accumulent. Tri, petits bacs et tiroir organisé : 5 idées de rangement bureau et d'organisation maison pour désencombrer le coin travail et tout retrouver.",
+    "intro": "Moins de fournitures, mieux rangées : c'est la clé d'un bureau qu'on a envie d'utiliser.",
+    "tips": [
+      {
+        "t": "Tester chaque stylo",
+        "d": "Ceux qui ne marchent plus partent tout de suite."
+      },
+      {
+        "t": "Des petits bacs",
+        "d": "Un bac par famille dans le tiroir."
+      },
+      {
+        "t": "Un pot sur le bureau",
+        "d": "Trois stylos et des ciseaux, pas plus."
+      },
+      {
+        "t": "Une réserve à part",
+        "d": "Le surplus dans une boîte, hors du bureau."
+      },
+      {
+        "t": "Un rangement le vendredi",
+        "d": "Cinq minutes pour remettre tout en place."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-01T07:40:00Z",
+    "image": "img/rangement-bureau-fournitures.jpg",
+    "render_hash": "926564b5c5e8"
+  },
+  {
+    "id": "CSR-0100",
+    "slug": "rangement-chambre-enfant-peluches",
+    "board": "chambre-dressing",
+    "kicker": "Peluches",
+    "title": "Rangement chambre enfant : 5 idées pour les peluches",
+    "description": "Les peluches s'accumulent vite et finissent partout dans la chambre. Paniers, hamac, sélection tournante : 5 idées de rangement chambre enfant pour les garder à portée de main, faciles à ranger pour l'enfant, et une astuce rangement pour en limiter le nombre.",
+    "intro": "Les peluches préférées restent près du lit ; les autres peuvent se reposer ailleurs, à tour de rôle.",
+    "tips": [
+      {
+        "t": "Un grand panier bas",
+        "d": "L'enfant range seul en quelques secondes."
+      },
+      {
+        "t": "Les favorites au lit",
+        "d": "Deux ou trois, le reste dans le panier."
+      },
+      {
+        "t": "Une rotation",
+        "d": "Une partie rangée dans un sac, échangée ensuite."
+      },
+      {
+        "t": "Un hamac dans un angle",
+        "d": "Fixé bas et solidement, il libère le sol."
+      },
+      {
+        "t": "Un tri avec l'enfant",
+        "d": "Il choisit lui-même celles à donner."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-01T15:40:00Z",
+    "products": [
+      {
+        "name": "Panier de rangement en tissu",
+        "url": "https://www.amazon.fr/s?k=panier+rangement+tissu+chambre+enfant&tag=chezsoirange-21",
+        "why": "Léger et souple, il convient aux petites mains."
+      },
+      {
+        "name": "Sac de rangement pour peluches",
+        "url": "https://www.amazon.fr/s?k=sac+rangement+peluches&tag=chezsoirange-21",
+        "why": "Pour mettre de côté les peluches en rotation."
+      }
+    ],
+    "image": "img/rangement-chambre-enfant-peluches.jpg",
+    "render_hash": "d08e168d40ef"
+  },
+  {
+    "id": "CSR-0101",
+    "slug": "rangement-salle-de-bain-derriere-la-porte",
+    "board": "salle-de-bain",
+    "kicker": "Porte",
+    "title": "Rangement salle de bain : 5 idées pour ranger derrière la porte",
+    "description": "Dans une petite salle de bain, l'arrière de la porte est un espace oublié. Patères, étagère suspendue et pochettes : 5 idées de rangement salle de bain pour gagner de la place sans travaux, une astuce rangement idéale pour un petit appartement.",
+    "intro": "Derrière la porte, quelques centimètres suffisent pour ranger serviettes et petits accessoires.",
+    "tips": [
+      {
+        "t": "Des patères en hauteur",
+        "d": "Peignoirs et serviettes suspendus au sec."
+      },
+      {
+        "t": "Une étagère à suspendre",
+        "d": "Sans perçage, sur le haut de la porte."
+      },
+      {
+        "t": "Des pochettes en tissu",
+        "d": "Pour brosses, élastiques et petits flacons."
+      },
+      {
+        "t": "Un crochet pour le panier",
+        "d": "Le linge sale ne traîne plus au sol."
+      },
+      {
+        "t": "Vérifier l'ouverture",
+        "d": "La porte doit toujours s'ouvrir en grand."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-02T07:40:00Z",
+    "image": "img/rangement-salle-de-bain-derriere-la-porte.jpg",
+    "render_hash": "7c9616063fcc"
+  },
+  {
+    "id": "CSR-0102",
+    "slug": "rangement-petit-appartement-valises",
+    "board": "petit-appartement",
+    "kicker": "Valises",
+    "title": "Rangement petit appartement : 5 idées pour ranger les valises",
+    "description": "Les valises prennent beaucoup de place entre deux voyages. Emboîtées, sur l'armoire ou sous le lit, et même remplies : 5 idées de rangement petit appartement pour les ranger sans encombrer, avec une astuce rangement pour utiliser leur volume vide.",
+    "intro": "Une valise vide est un rangement : autant s'en servir pour stocker ce qu'on utilise rarement.",
+    "tips": [
+      {
+        "t": "Les emboîter",
+        "d": "La petite dans la grande, une seule place."
+      },
+      {
+        "t": "Les remplir",
+        "d": "Linge hors saison ou draps d'appoint dedans."
+      },
+      {
+        "t": "Sur l'armoire",
+        "d": "Un espace en hauteur rarement utilisé."
+      },
+      {
+        "t": "Sous le lit",
+        "d": "Les modèles souples se glissent à plat."
+      },
+      {
+        "t": "Une housse propre",
+        "d": "On évite d'apporter la poussière du voyage."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-02T15:40:00Z",
+    "products": [
+      {
+        "name": "Housse de protection pour valise",
+        "url": "https://www.amazon.fr/s?k=housse+protection+valise&tag=chezsoirange-21",
+        "why": "Elle garde la valise propre entre deux voyages."
+      },
+      {
+        "name": "Sacs de rangement sous vide",
+        "url": "https://www.amazon.fr/s?k=sac+sous+vide+vetement&tag=chezsoirange-21",
+        "why": "Pour glisser le linge hors saison dans la valise."
+      }
+    ],
+    "image": "img/rangement-petit-appartement-valises.jpg",
+    "render_hash": "cd74c0f5f510"
+  },
+  {
+    "id": "CSR-0103",
+    "slug": "rangement-cuisine-bouteilles-boissons",
+    "board": "cuisine",
+    "kicker": "Boissons",
+    "title": "Rangement cuisine : 5 idées pour les bouteilles et les boissons",
+    "description": "Bouteilles d'eau, jus, sirops : les boissons prennent vite tout un placard. Casier, bac à poignée et réserve limitée : 5 idées de rangement cuisine et de rangement cellier pour ranger les bouteilles sans encombrer une petite cuisine.",
+    "intro": "Les bouteilles prennent moins de place quand elles sont couchées, groupées et en quantité raisonnable.",
+    "tips": [
+      {
+        "t": "Un casier à bouteilles",
+        "d": "Couchées, elles tiennent dans un faible volume."
+      },
+      {
+        "t": "Un bac à poignée",
+        "d": "On sort tous les sirops d'un seul geste."
+      },
+      {
+        "t": "Une réserve limitée",
+        "d": "Un pack d'avance, pas trois."
+      },
+      {
+        "t": "Le bas des placards",
+        "d": "Les bouteilles lourdes jamais en hauteur."
+      },
+      {
+        "t": "Les vides à part",
+        "d": "Un sac dédié pour les rapporter au tri."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-03T07:40:00Z",
+    "image": "img/rangement-cuisine-bouteilles-boissons.jpg",
+    "render_hash": "bd8640b6e0e2"
+  },
+  {
+    "id": "CSR-0104",
+    "slug": "rangement-dressing-vetements-de-sport",
+    "board": "chambre-dressing",
+    "kicker": "Sport",
+    "title": "Rangement dressing : 5 idées pour les vêtements de sport",
+    "description": "Leggings, tee-shirts techniques, chaussettes de sport : ces vêtements se mélangent vite au reste. Tiroir dédié, sac prêt à partir et rangement aéré : 5 idées de rangement dressing et de rangement chambre pour une tenue de sport toujours prête.",
+    "intro": "Un coin réservé au sport, et la tenue est prête en deux minutes, même les matins pressés.",
+    "tips": [
+      {
+        "t": "Un tiroir dédié",
+        "d": "Toute la tenue au même endroit."
+      },
+      {
+        "t": "Rouler les vêtements",
+        "d": "Les tissus techniques prennent peu de place."
+      },
+      {
+        "t": "Un sac prêt à partir",
+        "d": "Gourde et serviette restent dedans."
+      },
+      {
+        "t": "Un crochet pour aérer",
+        "d": "Les affaires sèchent avant d'être rangées."
+      },
+      {
+        "t": "Les chaussures à part",
+        "d": "Dans une boîte aérée, loin des vêtements."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-03T15:40:00Z",
+    "products": [
+      {
+        "name": "Organisateur de tiroir en tissu",
+        "url": "https://www.amazon.fr/s?k=organisateur+tiroir+tissu+compartiments&tag=chezsoirange-21",
+        "why": "Chaque pièce de la tenue a sa case."
+      },
+      {
+        "name": "Boîte à chaussures aérée",
+        "url": "https://www.amazon.fr/s?k=boite+chaussures+transparente+aeree&tag=chezsoirange-21",
+        "why": "Les baskets restent à part et respirent."
+      }
+    ],
+    "image": "img/rangement-dressing-vetements-de-sport.jpg",
+    "render_hash": "3c37c095ab3f"
+  },
+  {
+    "id": "CSR-0105",
+    "slug": "rangement-maison-papier-cadeau-rubans",
+    "board": "organisation-maison",
+    "kicker": "Cadeaux",
+    "title": "Rangement maison : 5 idées pour le papier cadeau et les rubans",
+    "description": "Avant les fêtes, rouleaux de papier cadeau, rubans et étiquettes sortent de partout. Boîte unique, rouleaux debout et réserve de sacs : 5 idées de rangement maison et d'organisation maison pour emballer vite et tout ranger ensuite.",
+    "intro": "Tout ce qui sert à emballer dans une seule boîte : on emballe plus vite et rien ne se perd.",
+    "tips": [
+      {
+        "t": "Une boîte unique",
+        "d": "Papier, rubans, ciseaux et adhésif ensemble."
+      },
+      {
+        "t": "Les rouleaux debout",
+        "d": "Dans un bac haut, derrière une porte."
+      },
+      {
+        "t": "Les rubans enroulés",
+        "d": "Sur un carton pour éviter les nœuds."
+      },
+      {
+        "t": "Les sacs pliés",
+        "d": "Réutilisés, gardés à plat dans un classeur."
+      },
+      {
+        "t": "Un tri après les fêtes",
+        "d": "Les bouts trop petits partent au recyclage."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-04T07:40:00Z",
+    "image": "img/rangement-maison-papier-cadeau-rubans.jpg",
+    "render_hash": "d66f6e1af662"
+  },
+  {
+    "id": "CSR-0106",
+    "slug": "rangement-salle-de-bain-jouets-de-bain",
+    "board": "salle-de-bain",
+    "kicker": "Jouets de bain",
+    "title": "Rangement salle de bain : 5 idées pour les jouets de bain des enfants",
+    "description": "Les jouets de bain restent souvent mouillés au bord de la baignoire. Filet, panier percé et sélection réduite : 5 idées de rangement salle de bain pour des jouets propres et au sec, une astuce rangement simple pour l'organisation maison avec des enfants.",
+    "intro": "Les jouets de bain doivent sécher vite : un rangement aéré évite l'humidité et les mauvaises odeurs.",
+    "tips": [
+      {
+        "t": "Un filet suspendu",
+        "d": "Les jouets s'égouttent après le bain."
+      },
+      {
+        "t": "Un panier percé",
+        "d": "On le soulève, l'eau s'écoule seule."
+      },
+      {
+        "t": "Peu de jouets",
+        "d": "Cinq ou six suffisent, le reste en rotation."
+      },
+      {
+        "t": "Les vider et sécher",
+        "d": "On évite l'eau qui stagne dedans."
+      },
+      {
+        "t": "Hors de la baignoire",
+        "d": "Elle reste libre pour le bain des adultes."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-04T15:40:00Z",
+    "products": [
+      {
+        "name": "Filet de rangement pour jouets de bain",
+        "url": "https://www.amazon.fr/s?k=filet+rangement+jouets+bain&tag=chezsoirange-21",
+        "why": "Les jouets s'égouttent et sèchent à l'air."
+      },
+      {
+        "name": "Panier de bain percé",
+        "url": "https://www.amazon.fr/s?k=panier+jouets+bain+egouttoir&tag=chezsoirange-21",
+        "why": "On le sort de la baignoire d'un seul geste."
+      }
+    ],
+    "image": "img/rangement-salle-de-bain-jouets-de-bain.jpg",
+    "render_hash": "99eea8474f5c"
+  },
+  {
+    "id": "CSR-0107",
+    "slug": "rangement-petit-appartement-rangement-invisible",
+    "board": "petit-appartement",
+    "kicker": "Invisible",
+    "title": "Rangement petit appartement : 5 idées de rangements invisibles",
+    "description": "Dans un petit appartement, les rangements visibles chargent vite l'espace. Meubles couleur mur, portes sans poignées et coffres discrets : 5 idées de rangement petit appartement pour ranger beaucoup sans que cela se voie, et une astuce rangement pour alléger la pièce.",
+    "intro": "Un rangement qui se fond dans le décor agrandit visuellement la pièce.",
+    "tips": [
+      {
+        "t": "La couleur du mur",
+        "d": "Le meuble disparaît dans la pièce."
+      },
+      {
+        "t": "Des façades lisses",
+        "d": "Sans poignées, l'ensemble paraît plus calme."
+      },
+      {
+        "t": "Des assises coffres",
+        "d": "Pouf ou banc qui cachent un rangement."
+      },
+      {
+        "t": "Du rangement du sol au plafond",
+        "d": "Une seule façade plutôt que trois meubles."
+      },
+      {
+        "t": "Peu d'objets exposés",
+        "d": "Trois objets choisis, le reste derrière les portes."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-05T07:40:00Z",
+    "image": "img/rangement-petit-appartement-rangement-invisible.jpg",
+    "render_hash": "307014985cce"
+  },
+  {
+    "id": "CSR-0108",
+    "slug": "rangement-cuisine-couteaux-securite",
+    "board": "cuisine",
+    "kicker": "Couteaux",
+    "title": "Rangement cuisine : 5 idées pour ranger les couteaux en sécurité",
+    "description": "Des couteaux en vrac dans un tiroir s'abîment et sont dangereux. Bloc, barre aimantée en hauteur et étuis de protection : 5 idées de rangement cuisine et de rangement placard cuisine pour des lames protégées et une cuisine plus sûre.",
+    "intro": "Bien rangés, les couteaux restent tranchants plus longtemps et on ne se coupe plus en fouillant.",
+    "tips": [
+      {
+        "t": "Jamais en vrac",
+        "d": "Les lames s'abîment et blessent les doigts."
+      },
+      {
+        "t": "Une barre aimantée",
+        "d": "Fixée haut, hors de portée des enfants."
+      },
+      {
+        "t": "Un bloc à fentes",
+        "d": "Lame protégée, manche facile à saisir."
+      },
+      {
+        "t": "Des étuis de lame",
+        "d": "Pour ranger un couteau dans un tiroir."
+      },
+      {
+        "t": "Peu de couteaux",
+        "d": "Trois bons couteaux suffisent au quotidien."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-05T15:40:00Z",
+    "products": [
+      {
+        "name": "Barre aimantée pour couteaux",
+        "url": "https://www.amazon.fr/s?k=barre+aimantee+couteaux+cuisine&tag=chezsoirange-21",
+        "why": "Fixée en hauteur, elle garde les lames hors de portée."
+      },
+      {
+        "name": "Étuis de protection pour lames",
+        "url": "https://www.amazon.fr/s?k=etui+protection+lame+couteau&tag=chezsoirange-21",
+        "why": "Ils protègent les doigts et le tranchant dans un tiroir."
+      }
+    ],
+    "image": "img/rangement-cuisine-couteaux-securite.jpg",
+    "render_hash": "aa047bf5f5cc"
+  },
+  {
+    "id": "CSR-0109",
+    "slug": "rangement-chambre-pied-du-lit",
+    "board": "chambre-dressing",
+    "kicker": "Pied du lit",
+    "title": "Rangement chambre : 5 idées pour ranger au pied du lit",
+    "description": "Le pied du lit est un espace souvent inutilisé dans une petite chambre. Banc coffre, panier à plaids et bibliothèque basse : 5 idées de rangement chambre et une astuce rangement pour une petite chambre cosy, sans encombrer le passage.",
+    "intro": "Au pied du lit, un meuble bas range beaucoup et termine joliment la chambre.",
+    "tips": [
+      {
+        "t": "Un banc coffre",
+        "d": "Plaids et linge de lit cachés dedans."
+      },
+      {
+        "t": "Un panier à plaids",
+        "d": "Les couvertures du soir à portée de main."
+      },
+      {
+        "t": "Une bibliothèque basse",
+        "d": "Moins haute que le matelas, elle se fait oublier."
+      },
+      {
+        "t": "Garder un passage",
+        "d": "Au moins 60 cm pour circuler sans gêne."
+      },
+      {
+        "t": "Rien sur le banc",
+        "d": "Ce n'est pas un second dressing."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-06T07:40:00Z",
+    "image": "img/rangement-chambre-pied-du-lit.jpg",
+    "render_hash": "b6b302beac94"
+  },
+  {
+    "id": "CSR-0110",
+    "slug": "rangement-buanderie-repassage",
+    "board": "organisation-maison",
+    "kicker": "Repassage",
+    "title": "Rangement buanderie : 5 idées pour la table et le fer à repasser",
+    "description": "La planche et le fer à repasser sont encombrants dans un petit logement. Support mural, rangement derrière une porte et panier de linge à repasser : 5 idées de rangement buanderie et d'organisation maison pour ranger le repassage en toute sécurité.",
+    "intro": "Le matériel de repassage prend peu de place s'il est rangé à plat, contre un mur, et refroidi.",
+    "tips": [
+      {
+        "t": "Un support mural",
+        "d": "La planche tient à plat contre le mur."
+      },
+      {
+        "t": "Derrière une porte",
+        "d": "Un crochet solide suffit pour la planche."
+      },
+      {
+        "t": "Le fer refroidi",
+        "d": "Toujours rangé froid, câble enroulé sans serrer."
+      },
+      {
+        "t": "Un panier dédié",
+        "d": "Le linge à repasser au même endroit."
+      },
+      {
+        "t": "Repasser moins",
+        "d": "Étendre bien le linge évite bien des plis."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-06T15:40:00Z",
+    "products": [
+      {
+        "name": "Support mural pour table à repasser",
+        "url": "https://www.amazon.fr/s?k=support+mural+table+a+repasser&tag=chezsoirange-21",
+        "why": "La planche reste à plat et libère le sol."
+      },
+      {
+        "name": "Panier à linge pliable",
+        "url": "https://www.amazon.fr/s?k=panier+linge+pliable&tag=chezsoirange-21",
+        "why": "Il garde le linge à repasser en un seul endroit."
+      }
+    ],
+    "image": "img/rangement-buanderie-repassage.jpg",
+    "render_hash": "466b062d545f"
+  },
+  {
+    "id": "CSR-0111",
+    "slug": "rangement-salle-de-bain-autour-de-la-baignoire",
+    "board": "salle-de-bain",
+    "kicker": "Baignoire",
+    "title": "Rangement salle de bain : 5 idées pour ranger autour de la baignoire",
+    "description": "Flacons sur le rebord, éponges qui traînent : le tour de la baignoire s'encombre vite. Pont de baignoire, niche murale et tri des produits : 5 idées de rangement salle de bain pour une petite salle de bain dégagée, et une astuce rangement pour la garder propre.",
+    "intro": "Autour de la baignoire, on ne garde que les produits du bain : le reste trouve sa place ailleurs.",
+    "tips": [
+      {
+        "t": "Un pont de baignoire",
+        "d": "Savon et éponge posés en travers."
+      },
+      {
+        "t": "Une étagère d'angle",
+        "d": "Les flacons groupés, pas sur le rebord."
+      },
+      {
+        "t": "Un flacon par usage",
+        "d": "Un gel douche, un shampoing, pas cinq."
+      },
+      {
+        "t": "Le tablier comme rangement",
+        "d": "Un accès pour les produits de réserve."
+      },
+      {
+        "t": "Essuyer après le bain",
+        "d": "Moins de traces, moins de calcaire."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-07T07:40:00Z",
+    "image": "img/rangement-salle-de-bain-autour-de-la-baignoire.jpg",
+    "render_hash": "b45ada12ed6a"
+  },
+  {
+    "id": "CSR-0112",
+    "slug": "rangement-petit-appartement-sous-le-canape",
+    "board": "petit-appartement",
+    "kicker": "Canapé",
+    "title": "Rangement petit appartement : 5 idées pour exploiter le dessous du canapé",
+    "description": "Sous le canapé, quelques centimètres peuvent devenir un vrai rangement. Bacs plats à roulettes, plaids et jeux de société : 5 idées de rangement petit appartement pour gagner de la place dans le salon, sans encombrer et avec une astuce rangement pour garder le sol propre.",
+    "intro": "Le dessous du canapé range bien les objets plats qu'on utilise au salon.",
+    "tips": [
+      {
+        "t": "Mesurer la hauteur",
+        "d": "Choisir des bacs adaptés, sans forcer."
+      },
+      {
+        "t": "Des bacs à roulettes",
+        "d": "On les tire sans se baisser longtemps."
+      },
+      {
+        "t": "Des objets plats",
+        "d": "Jeux de société, plaids et coussins d'appoint."
+      },
+      {
+        "t": "Des bacs fermés",
+        "d": "La poussière reste dehors."
+      },
+      {
+        "t": "Un ménage facilité",
+        "d": "Bacs sortis, on passe l'aspirateur en entier."
+      }
+    ],
+    "visual": "render",
+    "ai_visual": false,
+    "in_feed": true,
+    "publish_at": "2026-12-07T15:40:00Z",
+    "products": [
+      {
+        "name": "Bacs de rangement plats à roulettes",
+        "url": "https://www.amazon.fr/s?k=bac+rangement+plat+roulettes&tag=chezsoirange-21",
+        "why": "Ils se glissent sous le canapé et sortent facilement."
+      },
+      {
+        "name": "Boîte de rangement plate avec couvercle",
+        "url": "https://www.amazon.fr/s?k=boite+rangement+plate+couvercle&tag=chezsoirange-21",
+        "why": "Elle protège plaids et jeux de la poussière."
+      }
+    ],
+    "image": "img/rangement-petit-appartement-sous-le-canape.jpg",
+    "render_hash": "018dc40fc2f5"
   }
 ]
